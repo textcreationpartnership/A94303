@@ -1,0 +1,1740 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moderation iustified, and the Lords being at hand emproved, in a sermon at VVestminster before the Honorable House of Commons assembled in Parliament: preached at the late solemne fast, December 25. 1644. By Thomas Thorowgood B. of D. Rector of Grimston in the county of Norfolke: one of the Assembly of Divines. Published by order from that House.</title>
+            <author>Thorowgood, Thomas, d. ca. 1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 100 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94303</idno>
+            <idno type="STC">Wing T1069</idno>
+            <idno type="STC">Thomason E23_6</idno>
+            <idno type="EEBO-CITATION">99860473</idno>
+            <idno type="PROQUEST">99860473</idno>
+            <idno type="VID">112593</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94303)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112593)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 4:E23[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Moderation iustified, and the Lords being at hand emproved, in a sermon at VVestminster before the Honorable House of Commons assembled in Parliament: preached at the late solemne fast, December 25. 1644. By Thomas Thorowgood B. of D. Rector of Grimston in the county of Norfolke: one of the Assembly of Divines. Published by order from that House.</title>
+                  <author>Thorowgood, Thomas, d. ca. 1669.</author>
+               </titleStmt>
+               <extent>[6], 33, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I. L. for Christopher Meredith at the Crane in Pauls Church-yard, and for Thomas Slater at the Swan in Duck-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645[i.e. 1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: the 5 in imprint date is crossed out and altered to 1644.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Philippians IV, 5 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112593:1" rendition="simple:additions"/>
+            <p>MODERATION
+IVSTIFIED, AND
+THE LORDS BEING
+AT HAND EMPROVED,
+IN
+A SERMON
+AT
+VVESTMINSTER
+BEFORE THE HONO<g ref="char:EOLhyphen"/>RABLE
+HOVSE OF COM<g ref="char:EOLhyphen"/>MONS
+Aſſembled in Parliament:
+Preached at the late ſolemne Faſt,
+<hi>December</hi> 25. 1644.</p>
+            <p>By <hi>Thomas Thorowgood</hi> B. of D. Rector of <hi>Grimſton</hi> in the
+County of Norfolke: One of the Aſſembly of Divines.</p>
+            <p>Publiſhed by Order from that Houſe.</p>
+            <bibl>Matth. 10. 16.</bibl>
+            <q>—Be wiſe as Serpents, and harmeleſſe as Doves.</q>
+            <q>Menſura convenit, ne aut nimia remiſſio reddatur aut nimiaa ſeveritas.</q>
+            <bibl>Ambros. Offic. lib. 2. cap. 22.</bibl>
+            <q>Si quid corrigendum eſt, adhibeatur ea Moderatio, quae Chriſtianos de<g ref="char:EOLhyphen"/>ceat,
+&amp;c.</q>
+            <bibl>Eraſm. Epiſt. l. 22. p. 916.</bibl>
+            <p>
+               <hi>LONDON,</hi>
+Printed by <hi>I. L.</hi> for <hi>Chriſtopher Meredith</hi> at the Crane in
+<hi>Pauls</hi> Church-yard, and for <hi>Thomas Slater</hi> at the
+Swan in Duck-Lane. 1645.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:112593:2"/>
+            <head>
+               <date>Die Mercurii 25. Decemb. 1644.</date>
+            </head>
+            <p>IT is this day Ordered by the Commons
+Houſe of Parliament, That Maſter <hi>He<g ref="char:EOLhyphen"/>veningham,</hi>
+and Maſter <hi>Liſle,</hi> doe from
+this Houſe give thanks to Maſter <hi>Thorowgood,</hi>
+and Maſter <hi>Langley,</hi> for the great pains they
+took in the Sermons they Preached this day
+at the intreaty of this Houſe, at S. <hi>Margarets
+Weſtminſter:</hi> (It being the day of Publique
+Humiliation) And to deſire them to Print
+their Sermons. And it is Ordered, that none
+ſhall preſume to Print their, or either of their
+Sermons without firſt obtaining libertie un<g ref="char:EOLhyphen"/>der
+their hand-writing.</p>
+            <closer>
+               <signed>H. Elſyng. Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="appointment_to_print">
+            <p>I Doe appoint <hi>Chriſtopher Meredith,</hi> and <hi>Thomas
+Slater</hi> to Print this Sermon.</p>
+            <closer>
+               <signed>THOMAS THOROVVGOOD.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:112593:2"/>
+            <head>TO THE HONORABLE
+Houſe of Commons, Aſſembled
+in Parliament at Weſtminſter.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He thought of coming into that Pulpit
+was dreadfull to me, and I did un<g ref="char:EOLhyphen"/>fainedly
+decline it;<note place="margin">1 Sam. 10. 22.</note> 
+               <hi>as Saul,</hi> I would
+willingly <hi>have hid my ſelfe among
+the ſtuffe,</hi> any where rather then un<g ref="char:EOLhyphen"/>dertake
+the taske.<note place="margin">Palluit ut <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> qui preſſit calci<g ref="char:EOLhyphen"/>bus anguem. Et Juvenal. Sat. 6.</note> 
+               <hi>Lugdunenſem
+Rhetor dicturus ad aram,</hi> Did Ad<g ref="char:EOLhyphen"/>vocates
+change colour pleading at that Barre? And ſhould
+I have no feare being to ſpeake in ſuch a preſence, where ſo
+many of you were, and each one reſembled <hi>the children of
+a King,</hi>
+               <note place="margin">Judg. 8. 18.</note> 
+               <hi>as the Kings of Midian</hi> ſaid to <hi>Gideon,</hi> in re<g ref="char:EOLhyphen"/>ſpect
+of his brethren; yea upon whoſe votes and determina<g ref="char:EOLhyphen"/>tions,
+depends the welfare of three glorious Kingdomes? But
+being ſummoned to the ſervice, it was my duty to runne and
+prepare my ſelfe, and I found preſently my lot was caſt upon
+that very day, which the providence of heaven had deſigned
+<pb facs="tcp:112593:3"/>
+to fall on Chriſtmas Day,<note place="margin">Gentilet. Exam. p. 206.</note> (as it is named yet) <hi>the Me<g ref="char:EOLhyphen"/>tropolitane
+of all the Feſtivities,</hi> ſo <hi>Gaſpar Ferrandi
+called it in the Councel of Trent;</hi> It was time for me
+then by conſideration, recollection, and other thoughts to
+<hi>caſt out feare;</hi>
+               <note place="margin">1 Joh. 4. 8.</note> and for my animation, the alluſion of him to
+<hi>Caeſar</hi> happily occurred, as they that dare confidently ſpeake
+in your judicious and formidable Aſſemblie, conſider not
+what <hi>Conſtellations</hi> you are, nor of what <hi>Magnitude;</hi>
+ſo thoſe, that deſpondingly be afraid, are ignorant of your
+benigne <hi>Aſpects,</hi> and gracious <hi>Influences.</hi> The election
+of a <hi>Theme,</hi> and the manner of handling it was in my
+power, and by Divine guidance I choſe <hi>Moderation,</hi> not
+becauſe you wanted it, but for that ſome ſo ſuppoſed, and I
+ſaw, even that <hi>Chriſtian grace,</hi> well underſtood would ju<g ref="char:EOLhyphen"/>ſtifie
+your proceedings: Your eares entertained the Diſcourſe
+with ſpontaneous attention, with the vertue of the Text,
+which <hi>Tertullus</hi> beg'd of <hi>Felix,</hi>
+               <note place="margin">Act. 24. 4.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. you have now
+required it to the other ſenſe, to another cenſure, <hi>in publi<g ref="char:EOLhyphen"/>cum
+formidandumque judicium</hi> as <hi>Caſſiane</hi> ſaid upon
+his like occaſion;<note place="margin">De Incarnat. praefat.</note> and for my part,<note place="margin">Pro captu Lectoris habent ſua fata libelli.</note> though the ſubject mat<g ref="char:EOLhyphen"/>ter,
+I know, will meet with fatall judgings, and my weake<g ref="char:EOLhyphen"/>neſſes
+alſo be ever before me, yet I have obeyed your Com<g ref="char:EOLhyphen"/>mands,
+and with the exoptation of <hi>Oroſius</hi> to <hi>Auſtin, Uti<g ref="char:EOLhyphen"/>nam
+tam efficaciter quam libenter:</hi>
+               <note place="margin">Praefat. Hiſt.</note> for now, as <hi>Dedi<g ref="char:EOLhyphen"/>cations</hi>
+have beene made to you of <hi>Zeale, Righteouſneſſe,
+Magnanimitie, Perſeverance, &amp;c.</hi> ſo the world ſhall ſee
+you <hi>Patrons of Moderation alſo,</hi> notwithstanding the
+<hi>unpolitique, Antichriſtian,</hi> and <hi>Tyrannicall</hi> endevours
+of your <hi>Oppoſites,</hi> ſome of which laboured ſo much ſome
+yeares ſince to embroyle the Nation againſt <hi>Scotland,</hi> in ir<g ref="char:EOLhyphen"/>reconciliable
+and inteſtine combuſtions, the perfect uniting
+of whom to <hi>ENGLAND</hi> was the zealous induſtrie of the
+<pb facs="tcp:112593:3"/>
+wiſeſt <hi>Patriots</hi> in former times, as our Chronicles re<g ref="char:EOLhyphen"/>late,
+and who now alſo, by ſupernaturall providence, in Co<g ref="char:EOLhyphen"/>venant,
+and many other obligations, are contrived into a
+more firme accord then ever. Thoſe other horrid Miſcre<g ref="char:EOLhyphen"/>ants
+of <hi>Ireland</hi> have raked <hi>Hell</hi> and <hi>Rome</hi> for the inven<g ref="char:EOLhyphen"/>tions,
+and exerciſes of ſuch cruel barbarities upon our miſe<g ref="char:EOLhyphen"/>rable
+brethren,<note place="margin">King <hi>Charles</hi> Declarat. with the advice of his Privie Counſell.</note> 
+               <hi>that no Chriſtian eare can heare with<g ref="char:EOLhyphen"/>out
+horrour, nor Story parallel, as his Majeſtie did
+declare againſt thoſe barbarous Rebels.</hi> I wiſh that
+<hi>Remonſtrance</hi> of our Clergie there were commanded to be
+in every Pariſh of <hi>ENGLAND,</hi> and the <hi>additionall de<g ref="char:EOLhyphen"/>poſitions</hi>
+haſtened to the Preſſe, that all the good people of
+the Land might know their good meaning to them: And in
+this Kingdome there was a generation of <hi>New Refor<g ref="char:EOLhyphen"/>mers</hi>
+that paved the way to Popery, and under the colour of
+<hi>a good worke in hand,</hi>
+               <note place="margin">Holy Table, Name, and Thing, <hi>p. 2. p. 192. p.</hi> 204.</note> 
+               <hi>and the pietie of the times were
+buſied in taking the out-workes, and that being done
+they would have a bout with the Fort it ſelfe:</hi> It is the
+language and ſentence of him that here may well be credi<g ref="char:EOLhyphen"/>ted,
+and our eyes ſaw then, the Innovations ſo numerous,
+that with a little time and obſervation it might be demon<g ref="char:EOLhyphen"/>ſtrated,
+the lawleſſe <hi>Mutation</hi> even then was greater from
+the rules, and received practiſe, then it is like to be by the
+<hi>Directory</hi> ſo much expected, which beſide <hi>Parliament</hi>
+Authoritie, will have the <hi>Scriptures,</hi> and the example of
+<hi>Reformed Churches</hi> to give it countenance; I thought in
+this Epiſtle I might make ſome further mentioning, but I
+muſt remember that of <hi>Auſtin</hi> to <hi>Macedonius, Negotio<g ref="char:EOLhyphen"/>ſiſſimos
+in Republica viros,</hi>
+               <note place="margin">Ep. 54. Init.</note> 
+               <hi>&amp; non ſuis, ſed aliorum
+utilitatibus attentiſſimos non debemus occupare pro<g ref="char:EOLhyphen"/>oemio:</hi>
+I will turne therefore my prefacing, into praying,
+that our <hi>God onely wiſe,</hi>
+               <note place="margin">Rom. 16. 27.</note> would fill every one of you with
+<pb facs="tcp:112593:4"/>
+               <hi>wiſedome,</hi>
+               <note place="margin">Jam. 3. 17.</note> 
+               <hi>even that wiſdome which is from above,
+and is firſt pure, then peaceable, gentle,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the
+grace of the Text,</hi>
+               <note place="margin">Ruth 4. 11.</note> 
+               <hi>Moderate, and full of good fruits,</hi>
+that gaſping <hi>Ireland</hi> may be recovered by you, and as you
+have <hi>done worthily</hi> for <hi>Scotland,</hi> you may be <hi>famous</hi> in
+<hi>ENGLAND,</hi> and regaining the <hi>Kings royall Perſon and
+favour,</hi> you may make him glorious alſo, and <hi>raiſe up</hi> in his
+Dominions <hi>the foundations for many generations,</hi>
+               <note place="margin">Iſa. 58. 12.</note> 
+               <hi>and
+be called the Repairers of the breaches, the Reſtorers
+of the paths to dwell in.</hi> I ſhall waite the complement
+of Gods good providence in you, and by you, that in his due
+ſeaſon every <hi>mountaine</hi> of oppoſition may be a <hi>plaine,</hi>
+               <note place="margin">Zach. 4. 7.</note> and
+theſe <hi>troublous times</hi> may determine in the readvance<g ref="char:EOLhyphen"/>ment,<note place="margin">Dan. 9. 25.</note>
+and firme eſtabliſhing of Righteouſneſſe and Peace,
+through your hands; which is, and ſhall be in the dayly de<g ref="char:EOLhyphen"/>votion
+of</p>
+            <closer>
+               <signed>Your conſtant Oratour at
+the Throne of Grace,
+THOMAS THOROVVGOOD.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:112593:4"/>
+            <head>A
+Sermon preached before the Honourable
+Houſe of COMMONS, at the Monethly Faſt,
+<date>December 25. 1644.</date>
+            </head>
+            <epigraph>
+               <bibl>Phil. 4. verſ. 5.</bibl>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.
+Let your moderation be known unto all men, the Lord
+is at hand.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>T is Gods word that I have read, let no
+mans zeale be hot againſt it, or me; and
+how meet it is for this time, this very
+time, judge not till you have heard: my
+thoughts were not faſtened here with<g ref="char:EOLhyphen"/>out
+ſome difficultie, I conſidered again
+and again, and as often prayed, that I
+might ſpeake a word in ſeaſon; it muſt
+be affirmed, there is all the reaſon in the world, you be even
+now alſo incited to zeale, wiſdome, magnanimitie, and pre<g ref="char:EOLhyphen"/>ſent
+reſolution, but <hi>incluſivè,</hi> there is no Chriſtian grace, I
+know,<note place="margin">Eph. 4. 15.</note> but you would be acquainted with it,<note place="margin">2 Theſſ. 2. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7.</note> and <hi>grow up in<g ref="char:EOLhyphen"/>to
+Chriſt in all things, and be eſtabliſhed in every good word and
+worke.</hi> But that I may in time take off all prejudice, I ſhall
+not ſpeake of <hi>Moderation</hi> in the ſenſe of Politians and the
+world, but as it is a Chriſtian grace, and not inconſiſtent with
+holy zeal, they were both in our Maſter Chriſt, 2 <hi>Cor.</hi> 10. 1. we
+<pb n="2" facs="tcp:112593:5"/>
+read it,<note place="margin">Joh. 2. 17. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>gentleneſſe of Chriſt,</hi> and my <hi>Philippians</hi> had to doe
+with <hi>dogs, evill workers, dangerous men of the conciſion,</hi> Chap.
+3. verſ. 2. yea, verſ. 18, 19. <hi>With wicked walkers, of whom he
+could not ſpeake without weeping, enemies of the croſſe of Chriſt,
+belly gods, muck-wormes, minding earthly things,</hi> lively cha<g ref="char:EOLhyphen"/>racters
+of a great part of your oppoſites: and if Saint <hi>Paul</hi>
+then, ſurely, I may ſay now, <hi>Let your moderation be known un<g ref="char:EOLhyphen"/>to
+all men, the Lord is at hand.</hi>
+            </p>
+            <p>If yet to any apprehenſion the firſt clauſe ſeeme a cooler,
+the ſecond will ſhew, it ſeemes ſo onely, and my <hi>Moderati<g ref="char:EOLhyphen"/>on</hi>
+doth not make a medley of Religion, nor complyes with
+any tranſgreſſion, but it is a bleſſed, and a watchfull vertue,
+living alwayes in Gods ſight, and in expectation of judge<g ref="char:EOLhyphen"/>ment
+to come; it quencheth no mans zeale, onely it makes
+it burne faire, and ſhine more cleare; it is enjoyned in the firſt
+clauſe of the Text, and the reaſon thereof is in the latter, <hi>the
+Lord is at hand.</hi>
+            </p>
+            <p>In the former we have theſe foure things.</p>
+            <list>
+               <item>1. The grace required, <hi>Moderation.</hi>
+               </item>
+               <item>2. The ſeat or ſubject of it, <hi>your, of you.</hi>
+               </item>
+               <item>3. Its declaration and diſcovery, <hi>let it be known.</hi>
+               </item>
+               <item>4. The ampliation and extent, <hi>to all men.</hi>
+               </item>
+            </list>
+            <p>The ſecond clauſe ſhall be touched upon as a reaſon, but my
+purpoſe is, God willing, to handle both in that method, which
+our dayes have found ſo happy, by Doctrine and Vſe, yet in
+the explication, and application, I ſhall paſſe thorough each
+particular.</p>
+            <p>Let this then be the firſt Doctrine,<note place="margin">Doctrin 1.</note> 
+               <hi>Moderation is a catho<g ref="char:EOLhyphen"/>lique
+grace of univerſall practiſe by all men to all men:</hi> and the
+Application will fall into five particulars, <hi>words of Complaint,
+Limitation, Conſutation, Inſtruction,</hi> and <hi>Exhortation.</hi>
+            </p>
+            <p>The ſecond Doctrine of the <hi>Lords being at hand,</hi>
+               <note place="margin">2.</note> will from
+the Scriptures hold forth unto us theſe ſeven ſeaſonable con<g ref="char:EOLhyphen"/>ſiderations,
+fitted for our preſent practiſe.</p>
+            <list>
+               <item>1. Speedy Repentance from dead works.</item>
+               <item>2. Wiſe weaning our ſelves from the world.</item>
+               <item>3. Conſtant perſeverance in true Religion.</item>
+               <item>4. Zealous endeavour after holineſſe.</item>
+               <item>
+                  <pb n="3" facs="tcp:112593:5"/>
+5. Chriſtian patience in tribulation.</item>
+               <item>6. Holy faith in the Lord Ieſus Chriſt.</item>
+               <item>7. Sober watchfulneſſe unto prayer.</item>
+            </list>
+            <p>
+               <hi>Moderation is a catholique grace of univerſall practiſe by
+all men to all men.</hi>
+               <note place="margin">Doctrin. 1.</note> In the Originall, it is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Adjectively;
+which is ſometimes emphaticall, in the proprietie of the
+language; but that criticiſme, and curioſitie ſhall be omitted,
+yet it is fit to mention the different interpretation.</p>
+            <p>Firſt,<note place="margin">Theophylact. Haimo, Lyra, &amp;c.</note> 
+               <hi>Modeſty,</hi> ſo it is read by ſome, which is a vertue,
+keeping ſuch mediocritie in externall things, that no mans
+eye, or conſcience is offended, it moderates the outward
+converſe in ſpeech,<note place="margin">Aquin. 22. 120. 2, 3.</note> apparell, and life, in their ſenſe, who re<g ref="char:EOLhyphen"/>ferre
+it to the words immediately foregoing, <hi>Verſ.</hi> 4. Re<g ref="char:EOLhyphen"/>joyce,
+&amp;c. So <hi>Bernard, We reioyce in that we hope, becauſe the
+Lord is at hand,</hi>
+               <note place="margin">T. 1. p. 178.</note> 
+               <hi>we reioyce in that we ſuffer, that our Modeſty
+might be known to all men:</hi> this <hi>modeſty</hi> is not the maidens
+bluſh onely, but a colour well becoming men, women, all
+that be Chriſtians; nature puts a modeſt aſpect upon thoſe
+that ſhame to doe evill, the blood making haſt, as it were, to
+cover even the ſuſpition of guilt,<note place="margin">Offic. l. 1. c. 18.</note> 
+               <hi>Ambroſe</hi> extends it to ge<g ref="char:EOLhyphen"/>ſtures,
+gate, and bodily motion, telling his own experiment
+this way, how he refuſed to admit one into Orders, meerely
+for his immodeſt geſture; he ſuffered not another Clergy<g ref="char:EOLhyphen"/>man
+to walke before him, his going was ſo offenſive, and
+uncomely: and I was deceived, ſaith he, in neither, the one
+ran out of his function, the other out of his Religion, and
+turned Arrian, ſo diſcernable is the inward man ſometimes
+by the motion of the outward: no marvell therefore if light<g ref="char:EOLhyphen"/>neſſe
+of geſture be immodeſty and a prohibited evill, <hi>Prov.</hi>
+6. 13. <hi>Eſa.</hi> 3. 16. Some better Expoſiters read it,</p>
+            <p>Secondly,<note place="margin">Genoven. Fulk. &amp;c.</note> 
+               <hi>Patient minde;</hi> and ſo our own Tranſlators elſe<g ref="char:EOLhyphen"/>where
+Engliſh the word, 1 <hi>Tim.</hi> 3. 3. and thus it is a dutie
+very ſeaſonable for theſe ſuffering times, when men can be as
+the Turtle,<note place="margin">Pier. Hierogl.</note> though in ſeverall conditions, have but one note,
+keep the ſame tune, when they be quiet in tribulation, and
+murmure not when affliction comes; but the laſt clauſe of the
+Text will invite us to patience by and by.</p>
+            <p>Thirdly, I ſhall inſiſt therefore upon our own reading. <hi>Mo<g ref="char:EOLhyphen"/>deration,</hi>
+               <pb n="4" facs="tcp:112593:6"/>
+which is allowed by all Reformed Divines that I
+have ſeene,<note place="margin">Clvin, Beza, Zanch. &amp;c. Illyr. Clav. Scr. Modeſtia.</note> one onely excepted, who in ſome other things
+alſo is himſelfe excepted againſt. And <hi>Moderation</hi> is a word
+of ſuch latitude, that it reacheth to publique employments,
+in civill matters,<note place="margin">Zanch. &amp;c.</note> in the judgement of thoſe that well under<g ref="char:EOLhyphen"/>ſtood
+the force of it; thence they call Moderation the Aſſeſ<g ref="char:EOLhyphen"/>ſor
+of Iuſtice, mollifying the rigour, and ſeverity of the law,
+for Legiſtators intend ſtrictneſſe of rule, but their provi<g ref="char:EOLhyphen"/>dence,
+not being infinite, nor able to foreſee all occurrences,
+leave a neceſſitie for <hi>Moderation,</hi>
+               <note place="margin">Aquin. 22. 120. 10.</note> and Writers of both Reli<g ref="char:EOLhyphen"/>gions
+doe thus inſtance,<note place="margin">Antonin. S. 4. 5. 19.</note> it is juſt <hi>depoſitum reddere,</hi>
+               <note place="margin">Zanch. in Phil.</note> It is hone<g ref="char:EOLhyphen"/>ſty
+and faithfulneſſe to reſtore the pledge, or that we are truſt<g ref="char:EOLhyphen"/>ed
+with, yet ſometimes, ſay they, it is not iniquitie but <hi>Mode<g ref="char:EOLhyphen"/>ration</hi>
+to doe otherwiſe: for example, a man hath given ano<g ref="char:EOLhyphen"/>ther
+his ſword to keepe, he proves furious and diſtempered,
+the other is not bound to reſtore the ſword, becauſe he may
+abuſe it to his own, or others hurt; <hi>Vel, cum quis depoſitum re<g ref="char:EOLhyphen"/>poſcit
+ad impugnationem patriae,</hi> Thus, to take away a mans
+goods or lands is injuſtice, yet if it be done indeed for the
+Commonweale, it is <hi>Moderation,</hi> not iniquitie: For the well<g ref="char:EOLhyphen"/>fare
+of the naturall body diet is abated, though the patient be
+unwilling, ſleep is denyed, blood is let out, yea a member is
+cut off for the preſervation of the whole; and for the ſafetie
+of the body politique, we may without wrong be drawn to
+part w<hi rend="sup">th</hi> our private for the publique good, <hi>Intereſt Reipublicae
+ut re ſua quiſque bene utatur.</hi> This <hi>Moderation</hi> is the ſoul and
+life of the law, without which the law it ſelfe ſometime will
+ſavour of unrighteouſneſſe. This may ſeeme a paradox, and it
+is indeed <hi>miraculum Iuriſtarum</hi>
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. c. p. 94.</note> 
+               <hi>quia diſcedit à regula,</hi>
+ſaith <hi>Luther,</hi> a ſtrange thing to tranſgreſſe a Rule without
+tranſgreſſion: and this ſerves much to juſtifie the preſent
+proceedings, and might ſatisfie the diſaffected alſo, if reaſon
+could doe it, in ſuch times as theſe, which they have helped
+our ſinnes to bring upon us: it is not injuſtice, much leſſe cru<g ref="char:EOLhyphen"/>eltie,
+to raiſe forces, require contributions, impoſe taxations
+for the ſafetie of the kingdome;<note place="margin">Aquin. &amp; An<g ref="char:EOLhyphen"/>tonin. ubi ſupar.</note> and two of the forenamed
+Writers give this rule, it is good ſometime, to paſſe by the
+words of the law, and follow that which reaſon calles for,
+<pb n="5" facs="tcp:112593:6"/>
+and the common benefit. I ſhall touch upon Moderation again,
+as it reflects upon publique affaires, now therefore I ſpeake of
+it, as it hath reference to private Chriſtians. Some will have the
+word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, over and above that which is right and
+juſt; others,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> either from a Noune that ſignifies equall and good, or
+a Verbe that is to yeeld, the Prepoſition adding further force,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> and
+then it is a vertue inciting good men ſo much to right and equi<g ref="char:EOLhyphen"/>tie,
+that for its promotion they yeeld ſometimes, and part with
+their own. Further, it ſtops the violence of a mans own paſſions,
+guiding them to their due ends,<note place="margin">Pier.</note> therefore in the Hieroglyphick
+the Bridle &amp; Helme are the Emblemes of <hi>Moderation;</hi> and in this
+ſenſe it is a prime and choiſe vertue, carrying a man to the top of
+the hill, moralitie cannot get higher, and many Chriſtians come
+ſhort thereof, both in themſelves, and to others. And yet further, it
+is a grace ſhining outwardly, it is viſible, and illuſtrious, <hi>known un<g ref="char:EOLhyphen"/>to
+men,</hi> it hath influence into all other vertues, it qualifies and tem<g ref="char:EOLhyphen"/>pers
+them, it is as ſalt that makes other things ſavory, they reliſh
+not ſo well without the ſalt of <hi>Moderation,</hi> it is the graine that
+evens the ſcale, aequipoyſeth all, it curbs exceſſes, ſupplies defects,
+and is every way helpfull; the moſt zealous would be loath to
+heare, as thoſe, <hi>Rom. 10. 2. They have a zeale of God, but not ac<g ref="char:EOLhyphen"/>cording
+to knowledge,</hi> the zeale according to knowledge is the <hi>Mo<g ref="char:EOLhyphen"/>deration</hi>
+commended, commanded in the Text: and as in Schooles
+and taking up of differences the Vmpire, and Moderator under<g ref="char:EOLhyphen"/>ſtands,
+<hi>pro &amp; con,</hi> the allegations of either ſide, by his wiſdome
+he is able to remove ſcruples, and give every one their due; ſo this
+<hi>Moderation</hi> is the <hi>medium,</hi> makes the vertue, walkes as it were
+betwixt the two extreames, and keeps off the diſtempers of ei<g ref="char:EOLhyphen"/>ther,
+as <hi>Matth. 10. 16. Be wiſe as ſerpents, and harmleſſe as doves,</hi>
+this <hi>Moderation</hi> regulates the rigour of the one, and the ſimplici<g ref="char:EOLhyphen"/>tie
+of the other, ſtanding up to keepe out both venome and folly,
+that wrong be neither done, nor revenged. And yet neerer, in
+our converſe with men, this <hi>Moderation</hi> hath chiefe place, for<g ref="char:EOLhyphen"/>bidding
+us to be fierce in reaſoning, raſh in cenſuring, not ſtand too
+ſtrictly upon our termes, but in our defence and vindication abate
+our right, part with our own, yeeld to our neighbours, interpret
+fairely their ſayings, and doings, and make the beſt conſtructions
+we can, that our <hi>Moderation may be known,</hi> &amp;c. It is in <hi>Beza's</hi> de<g ref="char:EOLhyphen"/>ſcription,
+<pb n="6" facs="tcp:112593:7"/>
+               <hi>a quiet ſpirit taking all in good part,</hi> and I may call it a
+gracious minde that thinks and ſpeaks well of all, and doth ill
+to none.</p>
+            <p>Firſt, It regulates thoſe evill humors, that be ſo riſe in nature,
+even <hi>debates, envyings, wrath, ſtrifes, backbitings, whiſperings, ſwel<g ref="char:EOLhyphen"/>lings,
+tumults,</hi> which Saint <hi>Paul</hi> was ſo much afraid, he ſhould
+finde among his Corinthians, 2 <hi>Epiſt.</hi> 12. 20. and thus <hi>Moderati<g ref="char:EOLhyphen"/>on</hi>
+is nigh of kinne to Chriſtian charitie, it is not apt to credit ru<g ref="char:EOLhyphen"/>mours,
+or be miſguided by reports, <hi>it is not puffed up, doth not be<g ref="char:EOLhyphen"/>have
+it ſelfe unſeemely, thinketh not evill,</hi> &amp;c. 1 <hi>Cor.</hi> 15. 4, 5, 6, 7. it
+will have full information before it paſſe ſentence ſo much as in
+its own breaſt againſt any, ſhe will follow her Lords example, who
+though the cry of Sodome was great, yet for our inſtruction he
+ſaid, <hi>I will goe downe now, and ſee, whether they have done altogether
+according to the cry,</hi> &amp;c. Gen. 18. 21. and though the appearance
+be foule, our thoughts and ſpeeches muſt be as faire as they may;
+<hi>Ioſeph</hi> thus <hi>moderated</hi> the ſorrow of his brethren for their ſelling
+him into <hi>Egypt, God,</hi> ſaith he, <hi>ſent me before you, to ſave your lives
+by a mig<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ie deliverance.</hi> Gen. 45. 7. and is it not conſiderable, that
+though <hi>Solomon</hi> had then taken to himſelfe ſo many wives and
+concubines, which in a great meaſure alſo tooke away his heart,
+yet the holy Ghoſt uſeth this expreſſion, <hi>Solomon did evill in the
+ſight of the Lord, and went not fully after the Lord, as did David his
+father?</hi> 1 Kings 11. 6. ſee and learne the language of Canaan; <hi>Mo<g ref="char:EOLhyphen"/>deration,</hi>
+teacheth to aſcribe many offences to ignorance and infir<g ref="char:EOLhyphen"/>mitie:
+Thus our Saviour Chriſt prayeth for his crucifiers,<note place="margin">Facinus enorrae ignorantus tri<g ref="char:EOLhyphen"/>buit, non ma<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tiae Theophylact. in lo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Luk.</hi>
+               <note place="margin">Doroth. Doct. 16.</note>
+23. 34. <hi>Father, forgive them, for they know not what they doe;</hi> and
+Saint <hi>Peter</hi> learned this <hi>Moderation</hi> from his Maſter, <hi>Act.</hi> 3. 17.
+<hi>I wot that through ignorance ye did it, as did alſo your rulers:</hi> As
+that holy man judged one brothers ſoule to be very pure, becauſe
+his cell was ſo trim, and he ſaid, another was very righteous with<g ref="char:EOLhyphen"/>in,
+that tooke ſo little care of externall neatneſſe.</p>
+            <p>Secondly, Moderation is a well-doing grace, ſo good, that it
+doth ill to none, ſhe knows, that even nature did ever account de<g ref="char:EOLhyphen"/>ſire
+of revenge a feminine and cowardly paſſion: and that is but
+an emptie objection, with which nevertheleſſe ſome mens
+mouthes are filled, he is a ſilly fellow, hath no mettall in him, that
+is inſenſible of affronts, but that coine of revenge what mettall is
+<pb n="7" facs="tcp:112593:7"/>
+it made of? its ſtamp and allowance, I am ſure, is not from heaven,
+it is digged from the mines of hell, by the hands of fleſh, and bear<g ref="char:EOLhyphen"/>eth
+the image, impreſſe, and ſuperſcription of the world, the fleſh,
+and the devill,—<hi>it is earthly, ſenſuall and devilliſh,</hi> Iam. 3. 15.
+You ſee then the low deſcent, the baſe pedegree of this lofty va<g ref="char:EOLhyphen"/>lour;
+but our <hi>Moderation</hi> is better borne, even from above, and
+hath learned of her Maſter Chriſt, to be friendly to thoſe that be
+hoſtile, <hi>Matth. 5. 44. Love your enemies, bleſſe them that curſe
+you,</hi> though they revile, we muſt not, <hi>doe good to them that hate
+you, &amp;c.</hi> though by word and action they damnifie us, we muſt
+ſtudy to winne them by our well-doing; and <hi>this is the good turne,</hi>
+ſaith father <hi>Latimer,</hi>
+               <note place="margin">Part 2. p. 57.</note> 
+               <hi>our Maſter Chriſt allowes us to doe to our
+enemies, to Warme them at our fire,</hi> and draw them from evill by
+our good: It were eaſie to expatiate here, and enlarge ſeverall
+reaſons: as</p>
+            <p>Firſt,<note place="margin">Reaſons.</note> 
+               <hi>Moderation</hi> is a gracious and an acceptable vertue, it
+ſweetens and endeares the owner thereof, whereever he comes,
+it offers a kind of violence upon mens affections bofore they be
+aware: <hi>as the unbeleeving husband is wonne by the holy converſa<g ref="char:EOLhyphen"/>tion
+of the wife,</hi> 1 Pet. 3. 1.</p>
+            <p>Secondly, it is an healthfull vertue: immoderation and <hi>wrath
+killeth,</hi>
+               <note place="margin">Aug. de C. D. Ho<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ot<g ref="char:punc">▪</g> &amp;c.</note> 
+               <hi>&amp;c.</hi> Iob 52. As <hi>Sylla</hi> is ſaid in his anger to break a veine,
+of which Rupture he died; but, <hi>qui ſuavis eſt vivit in moderationi<g ref="char:EOLhyphen"/>bus,</hi>
+Pro. 12. 12. It is not indeed in the Hebrew, but the Seventie,
+and Latine ſo have it; and Interpreters thereupon ſay, That life is
+preſerved and prolonged by <hi>Moderation:</hi> but,</p>
+            <p>Thirdly, take the reaſon of the Text, in that ſenſe of it, <hi>the Lord
+is at hand,</hi> ſeeing, and hearing, all our cogitations and ſpeeches,
+<hi>Pſal. 129. 2, 3, 4. Thou knoweſt my downſuting, &amp;c. thou under<g ref="char:EOLhyphen"/>ſtandeſt
+my thoughts afar off, &amp;c. there is not a word in my tongue,
+but loe, thou O Lord, knoweſt it altogether.</hi> It was good counſell
+of <hi>Seneca, Sic fac omnia, tanquam ſpectet aliquis;</hi> and <hi>Moderation</hi>
+is not to learne, that God himſelfe alwaies obſerveth the mo<g ref="char:EOLhyphen"/>tions
+and commotions of our ſpirits, and every other diſtemper.</p>
+            <p>Fourthly, <hi>The Lord is at hand,</hi> to call us to account for every
+inward and outward exorbitance, thinke, ſpeake well of all, doe
+ill to none; if we have beene immoderate in this or any other way,
+let us repent, amend, and remember <hi>the Lord is at hand</hi> to reckon
+<pb n="8" facs="tcp:112593:8"/>
+with us for every miſdemeanour. I might proceed in further con<g ref="char:EOLhyphen"/>firmation,
+and declare that this Moderation is of ſuch vaſt, and
+comprehenſive extent that it checks all overflowings of heart,
+tongue, geſture, apparell, diet; yea it hath influence upon all our
+doings and ſufferings: and then the</p>
+            <p>Firſt Vſe will be matter of <hi>complaint</hi> in the univerſall want of
+this <hi>Moderation</hi> almoſt in all things and perſons,<note place="margin">Application. Vſe 1.</note> in this age, and
+inundation of miſery; no <hi>Moderation</hi> or abatement of mirth;
+though all the Land mourne, how few doe lay it to heart? as
+much exceſſe in diet almoſt as ever, when ſo many be ready to
+ſterve; pride, and thoſe other abominable vanities now notorious
+alſo, even women, wont to be the devout Sex, yet now how are
+ſome of them <hi>ſpots in your feaſts,</hi> Iude 14. with ſpots in their
+faces, as if they would out-face our very dayes of Humiliation;
+and men, how greedy are they of the world, plotting and proje<g ref="char:EOLhyphen"/>cting
+for riches and places, as if here were their <hi>abiding citie,</hi> and
+they had no thought of one to come? and in Civill matters, thoſe
+Courts and contentions, I heare not that men find either much
+more equitie or expedition.</p>
+            <p>Second Vſe of <hi>limitation;</hi>
+               <note place="margin">Vſe 2.</note> for it is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, it muſt be
+<hi>of you; your moderation,</hi> not <hi>of, or in things</hi> belonging unto God,
+it reacheth not to the principles or practiſe of Religion; obſerve
+that once for all; Men muſt be as zealous for truth and holineſſe as
+they can; Men, all men have no power to be Moderatours of
+them, themſelves are bounded, and confined by the Almighty,
+as <hi>Solomon</hi> ſaid to <hi>Shimei: Build thee an houſe at Ieruſalem, goe
+not from thence any whither,</hi> 1 King 2. 36, 37. <hi>From Gods word
+nothing muſt be taken, and nothing muſt be added to it,</hi> Deut. 4. 2.
+12. 32. <hi>Revel.</hi> 22. 18. Our God is omniſcient, diſcerning at
+firſt all poſſible emergencies of things, perſons, and occurſions;
+ſo his Statutes be perfect and abſolute, and muſt be obeyed with<g ref="char:EOLhyphen"/>out
+diſpute or moderation; it is a moſt dangerous adventure, to
+examine, or regulate Divine Truths by Humane wiſdome; ſuch
+daring hath introduced many foule Errors into the Church, and
+retained them: our Maſter Chriſt ſaid, <hi>Drinke ye all of this,</hi> Matth.
+26. 27. All the Clergie, ſay the men of <hi>Rome,</hi> the bloud may
+hang on Lay-mens beards, they may ſpill it on the ground: our
+God commands all men to know his Word and will; the Papiſts
+<pb n="9" facs="tcp:112593:8"/>
+will needs be Moderators here, and forbiddeth Scriptures in the
+Mother Tongue, becauſe the common people may profane and
+abuſe them: a ſeeming antinomy and oppoſition appears ſome<g ref="char:EOLhyphen"/>times
+in the Word of God; yet even there and then men ought
+not to moderate, but one Text muſt be compared with another,
+and ſo darke places will be enlightened; In every doubtfull buſi<g ref="char:EOLhyphen"/>neſſe
+they were wont to <hi>aske of the Lord,</hi> Gen. 25. 22. 1 <hi>Sam.</hi>
+23. and elſewhere; <hi>or of his Prieſts,</hi> Exod. 18. 15. <hi>Deut.</hi> 17. 9.
+<hi>alibique;</hi> or <hi>at his word,</hi> 1 Sam. 22. 5. 2 <hi>Chron.</hi> 18. 4. and in other
+places; we muſt ſay with Saint <hi>Paul</hi> in all ſuch matters, <hi>What
+ſaith the Scripture?</hi> Rom. 4. 3. And againe, <hi>what ſaith the Scripture?</hi>
+Galat. 4. 30. The Scripture is the ſole rule, judge, and moderator.
+The firſt Chriſtians were exceedingly preciſe this way; not to
+tell you how they would not part with a word, not a ſyllable, not
+a letter in divine truths; they complied not with the Heathen in
+ſmall matters:<note place="margin">Optat. l. 3. p. 71. Plin. Ep. 97. Tertul. de Cor. Mil. p. 153. Id. p. 283. Suidas in <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Euſeb. Hiſt. l. 4. c. 15. m p. 180.</note> 
+               <hi>They would not burne incenſe, nor weare a crowne,
+nor ſtick their doores with Laurel, nor lay grapes at Bacchus feet;
+Polycarpe would rather dye then ſweare by Caeſars fortune; and
+the Chriſtians in Iuſtine Martyr would not tell a lie to ſave their
+lives:</hi> the after connivence and complication brought in errors
+by heapes, and huddles: and <hi>Rhenanus</hi> a learned Papiſt confeſſeth
+the foundation thereof was laid in this preſumed <hi>Moderation:
+the firſt approaches of Gentiles to Chriſtianity were invited and en<g ref="char:EOLhyphen"/>tertained
+with ſome pleaſing changes of their rites; whereas their
+totall resection would have thruſt them quite off:</hi>
+               <note place="margin">In Tertul. p. 103. M.</note> but thoſe tolerable
+alterations as they ſeemed, introduced moſt intolerable ſuper<g ref="char:EOLhyphen"/>ſtition,
+and profaneneſſe, the ſmart whereof doth yet remaine;
+and we are not purged from the ſhame, and ſtaine of it to this
+very day; there ought to have beene no blinding, no blending in
+Divine Truths; Men ſhould not bring their mixtures hither: <hi>Of<g ref="char:EOLhyphen"/>fer
+this now to thy governour, and will he be pleaſed with thee?</hi> Mal.
+1. 8. We will not have droſſe with our ſilver, nor mingle vinegar
+with wine; we muſt ſay here as <hi>Iehu</hi> to <hi>Iehonadab, Come ſee my
+zeale,</hi> 2 King. 10. 16. And you muſt be moſt earneſt againſt
+thoſe errors that be likelieſt to encroach; and even Chriſtian <hi>Mo<g ref="char:EOLhyphen"/>deration</hi>
+will grow warme againſt the ſtreame of common cor<g ref="char:EOLhyphen"/>ruption:
+Our Maſter Chriſt forbad expreſſely, to <hi>ſweare by hea<g ref="char:EOLhyphen"/>ven,
+or by earth, or by Ieruſalem, &amp;c.</hi> Matth. 5. 34, &amp;c. For it
+<pb n="10" facs="tcp:112593:9"/>
+ſeemes by <hi>Philo</hi> the Iew,<note place="margin">m. p. 490.</note> that was the cuſtomary ſinne of thoſe
+times: and ſo, <hi>Gal. 1. 4. Chriſt hath delivered us from the preſent
+evill world.</hi> There is an Emphaſis in that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the
+preſent evill world: we muſt be moſt watchfull againſt thoſe
+corruptions, in faith, and manners, that are growing upon us,
+what ever they be; and not to ſpeake of others now, for my part,
+uſe what <hi>Moderation</hi> you pleaſe to the perſons, and eſtates of the
+Papiſts; but let us avoid, I beſeech you, whatſoever in truth, or
+true appearance is doctrinally ſo: the Iudaicall Rites had another
+kind of claime, yet the firſt Chriſtians declined them with great
+and univerſall vehemency: <hi>Say the world what it will, I freely
+pronounce,</hi>
+               <note place="margin">Auguſt. T. 2. ep. p. 346.</note> ſaith Hierome, <hi>that the Ceremonies of the Iewes are
+pernicious and deadly to Christians; and whoſoever obſerves them,
+whether he be Iew or Gentile is ſunke downe into hell:</hi> and yet Gods
+direction to his firſt people concernes all his Iſrael now, <hi>Levit.</hi>
+18. 3. <hi>After the doings of the Land of Egypt wherein ye dwelt ſhall
+ye not doe, and after the doings of the Land of Canaan, whither I
+bring you, ſhall ye not doe, &amp;c.</hi> And in both reſpects we ſhould a<g ref="char:EOLhyphen"/>bandon
+the waies of Popery, for we came halting from them, and
+they yet dwell among us; we have found by too long, and wo<g ref="char:EOLhyphen"/>full,
+and wounding experience, all our complying with them
+could not winne the leaſt upon them. In our firſt Reformation
+Archbiſhop <hi>Cranmer</hi> enjoyned <hi>that no Miniſter ſhould order mat<g ref="char:EOLhyphen"/>ters
+ſo,</hi>
+               <note place="margin">Injunct. 3.</note> 
+               <hi>that the unlearned people thinke the old Popiſh Maſſe con<g ref="char:EOLhyphen"/>tinues
+ſtill;</hi> but the <hi>piety of our times,</hi> as it <hi>was called,</hi> wanted no<g ref="char:EOLhyphen"/>thing,
+but a command, to trimme the Sacraments of Chriſt after
+the plaine Popiſh dreſſe of Antichriſt. In our ſecond Reformation
+a Biſhop printed it,<note place="margin">Bp. of Dur. <hi>Anno</hi> 1561.</note> in the beginning of the Queenes reigne; <hi>we
+are but too much like the Papiſts, that is our fault generally, that we
+differ not more from them;</hi> but <hi>the good worke in hand of late,</hi> ac<g ref="char:EOLhyphen"/>counted
+it th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir great honour and glory to come nigh unto them:
+To conclude, and I know you obſerve it well, danger from <hi>Rome</hi>
+was foreſene in the firſt, and ſecond Reformation; I ſay no more,
+but, <hi>Beware the third time.</hi>
+            </p>
+            <p>The third Vſe of Confutation:<note place="margin">Vſe 3.</note> it is of the Remonſtrants, Ar<g ref="char:EOLhyphen"/>minians,
+and Socinians, who endevour from my Text, to get
+countenance for the Babyloniſh Errour, the allowance of all Opi<g ref="char:EOLhyphen"/>nions,
+as if, becauſe the Apoſtle ſaith, <hi>Let your moderation be
+<pb n="11" facs="tcp:112593:9"/>
+knowne unto all men;</hi>
+               <note place="margin">Remonſtranst. ſect. ult. Cenſur. Re<g ref="char:EOLhyphen"/>monſt. Praef. Harm. Remonſt. &amp; Socin. p. 231.</note> therefore all mens conceits muſt be borne
+with in Religion, and every one ſuffered in what he ſuppoſeth
+to be truth: it is a cunning and couſening deviſe, that ſtrikes in
+with corrupt nature; but becauſe it offers violence to my Text, I
+cannot be true to it, or you, if ſomewhat be not added by way of
+vindication, and it will be in theſe ſixe particulars.</p>
+            <p>Firſt, Is it probable that our Apoſtle, who elſewhere, almoſt
+every where, is ſo zealous for unitie, againſt Schiſmes, ſhould in
+any ſort tolerate them, and ſo voluntarily open a wide door<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+for diviſion? in this very Epiſtle he writes for peace, even paſ<g ref="char:EOLhyphen"/>ſionately,
+but with mightie power, <hi>Phil 2. 1, 2. If there be any
+conſolation in Chriſt, if any comfort of love, if any fellowſhip of the
+ſpirit, if any bowels and mercies, fulfill ye my ioy, that ye be like
+minded, having the ſame love, being of one accord, and of one mind.</hi>
+And in the next <hi>Chap.</hi> 3. 16.—<hi>Let us walke by the ſame rule,
+let us mind the ſame thing:</hi> expreſſions different from all licen<g ref="char:EOLhyphen"/>tious
+tolerations: the ſame Apoſtle abounds in ſerious dehorta<g ref="char:EOLhyphen"/>tions
+from <hi>ſchiſmes and diſſentions,</hi> Rom 13. 12. 16. 17. and <hi>as car<g ref="char:EOLhyphen"/>nall,</hi>
+1 Cor, 3. 3. and in other places: And he doth very often ex<g ref="char:EOLhyphen"/>hort
+with earneſt words and arguments, not onely that we <hi>be like<g ref="char:EOLhyphen"/>minded,</hi>
+Rom. 15. 6. <hi>Phil. 2. 2. and of one mind,</hi> 2 Cor. 13. 11. <hi>but
+of the ſame mind,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 1 Cor. 10. 10. <hi>ioyned, yea ioynted together in the
+ſame mind, and in the ſame iudgement:</hi> And is here the leaſt ap<g ref="char:EOLhyphen"/>probation
+of that multiplying Doctrine? neither will that excuſe,
+ſo long as they all breath Chriſt, tend to the advancement of Chriſt;
+it matters not: but let Saint <hi>Paul</hi> anſwer this Objection alſo, <hi>Is
+Chriſt divided?</hi> 1 Cor. 1. 13. Conſider it well, and ſeaſon your
+conſideration with that of our Maſter Chriſt himſelfe, <hi>Mar.</hi> 9. 50.
+<hi>Have ſalt in your ſelves, and have peace one with another:</hi> If we
+were preſerved by humilitie from the corruptions of ſelfe-opi<g ref="char:EOLhyphen"/>nion,
+it would be no hard matter to embrace unitie.</p>
+            <p>Secondly, Such allowance would prove deſtructive to holi<g ref="char:EOLhyphen"/>neſſe,
+both perſonall, and domeſticall; <hi>Omnis religio, &amp; nulla re<g ref="char:EOLhyphen"/>ligio,</hi>
+would ſoone be the ſame: Suppoſe the husband of one
+opinion, the wife of another, the children, it may be, of one or
+two other,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> and the ſervants of as many more; what ſhall the Ma<g ref="char:EOLhyphen"/>ſter
+of the houſe doe here? how performe the family duties?
+diverſitie of opinions, like ſo many <hi>hatchets interrupting their
+<pb n="12" facs="tcp:112593:10"/>
+prayers,</hi> 1 Pet. 3. 7. <hi>chopping all devotion and piety in pieces:</hi> as the
+Duke of <hi>Wittenberge</hi> was wont to ſay, New garments introduce
+new manners, new manners bring in new men, and new men
+thruſt out the old; ſo new opinions ſuffered will devoure the
+old; and the toleration of every Religion, will deſtroy all Reli<g ref="char:EOLhyphen"/>gion:
+and in concluſion, leave no Religion at all.</p>
+            <p>Thirdly, this libertie is inconſiſtent with civill tranquillitie; the
+bleeding condition of our owne Nation at preſent is a living, al<g ref="char:EOLhyphen"/>moſt
+a dying witneſſe of this; and if that one Religion of Popery
+ſo tolerated as it was, hath brought in upon us ſo many deſtructi<g ref="char:EOLhyphen"/>ons;
+what will that multiplication doe, but haſten deſolation
+without recovery? for every party would endevour to ſupport
+it ſelfe to the prejudice of the reſt; <hi>&amp; dum de religione certatum
+eſt regio, dum de caelo terra amiſſa;</hi> as it was ſaid long ſince.</p>
+            <p>Fourthly, the late Biſhops of <hi>Ireland</hi> may put this libertie to
+to ſilence and ſhame; for when not long ſince a toleration of Po<g ref="char:EOLhyphen"/>pery
+in that Kingdome was propoſed, they ſaid, To give the Pa<g ref="char:EOLhyphen"/>piſts
+a toleration is a grievous ſinne, and will make us acceſſary to
+all their abominations, and the perdition alſo of ſeduced ſoules.</p>
+            <p>Fifthly,<note place="margin">Cam. op. ſucciſ. part. 1. p. 262.</note> This may be currant doctrine among the Turks; and
+the Grand Signior told his Mufti, that is, his chiefe Prieſt, As a
+Garden is beautified with varietie of flowers, ſo his Empire
+would be adorned with diverſities of religion: let ſuch tolera<g ref="char:EOLhyphen"/>tion
+find allowance in the Turks Paradiſe; it ſhall never, I truſt,
+be planted in the Paradiſe of God.</p>
+            <p>Sixthly, We have undertaken all in the Nationall Covenant,
+the eſtabliſhment of <hi>
+                  <g ref="char:V">Ʋ</g>niformitie,</hi> and how that can ſtand with
+this <hi>Omniformitie,</hi> indeed <hi>Nulliformitie,</hi> I underſtand not: it was
+a prodigious thing in the dayes of <hi>Ieremiah</hi> the Prophet, <hi>Ier.</hi> 2. 28.
+<hi>According to the number of thy cities, are thy Gods, O Iudah:</hi> here
+would ſoon appeare another kind of multiplying and increaſe; but
+though this fancy be never ſo plauſible, Divine providence hath
+ſhut it out of our Campe by our Covenant.</p>
+            <p>Fourth Vſe of Inſtruction;<note place="margin">
+                  <g ref="char:V">Ʋ</g>ſe 4.</note> If our <hi>Moderation muſt be knowne
+unto all men,</hi> in ſome caſes then it is not unlawfull to cauſe our
+light to ſhine, not purpoſely, proclaiming our righteouſneſſe in
+the Market, or ſounding a Trumpet; but firſt, a man may be his
+owne Encomiaſt, if his innocency be ſuſpected, or beſmeared;
+thus did <hi>Samuel,</hi> 1 Sam. 12. 3.</p>
+            <p>
+               <pb n="13" facs="tcp:112593:10"/>
+Secondly, if a Preachers doctrine be traduced, he may make his
+own Apologie, as Saint <hi>Paul</hi> did, <hi>Act.</hi> 22. 1.</p>
+            <p>Thirdly, By the ſame example, a man may ſtirre up others to
+emulation, by magnifying his office, ſo we read, <hi>Rom.</hi> 11. 13.</p>
+            <p>Fourthly, Thus it is ſaid, if a man be tempted to deſpaire, it is
+wiſdome to remember good actions paſt, as <hi>Iob,</hi> when he was
+ſtaggered by the reproaches of his friends, thought of his former
+integritie, which kept him ſtanding; and I have read of another,
+that in his tentations to pride, objected his ſinne againſt himſelfe,
+which brought him to humiliation, and in his fits of deſpaire he re<g ref="char:EOLhyphen"/>flected
+upon his righteouſneſſe, and was ſo preſerved from falling:
+and <hi>Moderation</hi> muſt not be known for pompe and oſtentation;
+<hi>Plus laborandam eſt celare virtutes quam vitia;</hi> It is not ſo dan<g ref="char:EOLhyphen"/>gerous
+to hide our vertues, as our vices; the revealing even of
+piety may be ſinne, but the confeſſion of ſinne is pietie; and if a
+mans righteous performances be occaſionally divulged, God muſt
+have the praiſe for it, who is the donour of it: Like veſſels of gold
+and ſilver, that receive not into them the Sun-ſhining ſplendour,
+but by reverberation returne it whence it came, ſo doe the Saints
+in all their gifts and graces, well called in our language gifts, that
+nothing be aſſumed unto man, but all aſcribed to Chriſt, <hi>the King
+of Saints, Revel.</hi> 15. 3. from whom proceedeth every good and
+perfect gift, <hi>Iam.</hi> 1. 17.</p>
+            <p>Fifth Vſe of Exhortation,<note place="margin">Vſe 5. 1.</note> will ſpeake as it is of private and
+publique concernment, and firſt, <hi>A ſenſu diviſo ad ſenſum compoſi<g ref="char:EOLhyphen"/>tum;
+Let every mans Moderation be known to all men, all men in
+ſenſu compoſito &amp; aggregato,</hi> that is, the Parliament; which is in<g ref="char:EOLhyphen"/>deed
+the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Parliament of England is, the <hi>All men of</hi>
+England, &amp; now if my voice could reach to every native, and free<g ref="char:EOLhyphen"/>born
+of this Kingdome, my Text ſhould ring loud in their eares;
+<hi>Let your Moderation</hi> in thought, word, and action be <hi>known to All
+men,</hi> be ſhown to this All men, for theſe conſiderable reaſons.</p>
+            <p>Firſt, They are your ſelves, you ſent them hither, you remaine
+here virtually in them, and with them, doe not vitiouſly ſuſpect, or
+prejudicate their endeavours, doe not perfidiouſly, I might ſay
+ſelf-feloniouſly deſert, and oppoſe them, as ſome have done; <hi>Qui
+ſibi nequam, cui bonus?</hi> it is ſelf-injury and iniquitie to be injurious
+to them.</p>
+            <p>
+               <pb n="14" facs="tcp:112593:11"/>
+Secondly, The Parliament is the ſupreame Magiſtracy of the
+Kingdome, and it is a law in the Old Teſtament, not repealed in
+the New, but reinforced, <hi>Exod. 22. 28. Thou ſhalt not revile the
+Gods,</hi> that is, <hi>the Iudges and Governours,</hi> as the word is in the
+preceding <hi>Chapter,</hi> 21. 6. and ſo it is, <hi>Act. 23. 5. Thou ſhalt not
+ſpeake evill of the Ruler of thy people.</hi>
+            </p>
+            <p>Thirdly, They have ſtudyed to breake off every heavy yoke,
+and deliver you from that vaſſallage was brought upon you by the
+tyranny of evill counſellours; Conſider well, <hi>Old Iſrael felt their
+lives bitter by their cruell bondage in Egypt,</hi> Exod. 1. 14. <hi>And be<g ref="char:EOLhyphen"/>cauſe
+of it, they hearkened not to Moſes,</hi> Exod. 6. 9. Such a ſpirit
+of bondage was upon you, you cryed for a Parliament, God heard
+you, and will you now murmure againſt <hi>Moſes,</hi> and fight againſt
+your Deliverers?</p>
+            <p>Fourthly, All the evill that is come upon you, and the king<g ref="char:EOLhyphen"/>dome,
+is from your ſelves, in this very particular, ſome groane un<g ref="char:EOLhyphen"/>der
+burdenous taxations, in other places the warre and plunder<g ref="char:EOLhyphen"/>ing
+devoure all in a grievous and bloody manner; the former
+would not have been, the other could not have been done, if you
+had been true to your ſelves, and <hi>your moderation known,</hi> and
+ſhown to this <hi>All men,</hi> and in them to your own peace and hap<g ref="char:EOLhyphen"/>pineſſe.</p>
+            <p>Fifthly, And yet let it be ſo manifeſted, becauſe the <hi>odium,</hi> en<g ref="char:EOLhyphen"/>vy
+and danger, that is upon them from their oppoſites, is for en<g ref="char:EOLhyphen"/>deavouring
+your good; let them therefore have your prayers,
+your purſes, your perſons, your power, becauſe their perill is from
+their <hi>Moderation;</hi> they would confine and regulate the evill coun<g ref="char:EOLhyphen"/>ſels
+about the King in Religious and Civill affaires, this is, and hath
+been their great offence, which is indeed their praiſe, and I ſhall
+ſpeake to them, as I ſay it of them elſewhere, they are ready to
+embrace any <hi>Moderation,</hi> that is conſiſtent with the ſafetie of
+Religion, King, and Kingdome.</p>
+            <p>And now Worthy Senators,<note place="margin">2.</note> I beſeech you, ſuffer ye alſo a
+word of Exhortation; Gods truths, you know, are above, beyond
+mans power, one Nation preſumes not to give Lawes to another,
+and if all the Nations in the world were conveened in an Occu<g ref="char:EOLhyphen"/>menicall
+Aſſembly, they ſhould have no Authoritie to moderate
+any one Doctrine of the moſt High; there be ſome circumſtan<g ref="char:EOLhyphen"/>tials,
+<pb n="15" facs="tcp:112593:11"/>
+concerning which my Text ſpeaks to you; <hi>Let your Mode<g ref="char:EOLhyphen"/>ration
+be known unto all men.</hi>
+            </p>
+            <p>Firſt,<note place="margin">Modus regendi.</note> In the manner of enforcing them; fierce and furious pro<g ref="char:EOLhyphen"/>ſecution
+even of a good cauſe, is rather prejudice, then promoti<g ref="char:EOLhyphen"/>on,
+but <hi>Eckius</hi> told <hi>Melancthon</hi> as it was,<note place="margin">Tua Philippe <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp; Pontani <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> plurimum ad<g ref="char:EOLhyphen"/>juverunt cau<g ref="char:EOLhyphen"/>ſam vestram. Vit. Melanct. pag. 335. per M. Ada.</note> that his <hi>Modeartion,</hi>
+and the faire language of <hi>Pontanus,</hi> did exceedingly further them;
+when <hi>Iames</hi> and <hi>Iohn</hi> ſaw the Samaritans would not receive
+Chriſt; <hi>they ſaid, Lord wilt thou that we command fire to come
+down from heaven, and conſume them as Elias did? but he turned,
+and rebuked them, and ſaid, Ye know not what manner of ſpirit ye are
+of, Luk.</hi> 9. 54, 55. We muſt verily even tenaciouſly adhere to all
+divine truths our ſelves, and with our wiſeſt <hi>Moderation</hi> labour
+to plant, and propagate them in others, and I would ſay with
+<hi>Eraſmus;</hi>
+               <note place="margin">Ep. l. 6. p. 258.</note> 
+               <hi>Mihi videtur plus profici civili modeſtia, quam impetu;</hi>
+Oppoſites, indeed, muſt be oppoſed, gain-ſayed, reclaimed, but
+all muſt be done in a way, and by the meanes appointed from hea<g ref="char:EOLhyphen"/>ven;
+It is one thing to ſhew moderation to pious, peaceable, and
+tender conſciences; it is another thing to proclaime before-hand
+toleration to impious, fiery, and unpeaceable opinions: I ſay no
+more, but, <hi>Sic vigilet Moderatio, ut non dormiat diſciplina;</hi> Let
+Moderation be ſo much awake, that diſcipline fall not aſleep.</p>
+            <p>Secondly,<note place="margin">Sacrilegium.</note> Give me leave in the next place, to minde you of
+the Harpies of this Age, who ſpying a great alteration like to be
+made in the revenues of the Church, have their mouthes open,
+and their fingers itch for a ſhare; here is great need of your Vm<g ref="char:EOLhyphen"/>pirage,
+<hi>and Moderation:</hi> conſider, I beſeech you, there be many
+darke corners in the Land, that have not where with to get oyle
+for their lamps, their ſoules cry aloud for your help, and ſome aske
+no more but their own, which hath too long been kept from them,
+and it is now high time to make reſtitution; Sacriledge hath ever
+proved a fatall offence, you will not ſo much as in purpoſe be defi<g ref="char:EOLhyphen"/>led
+with it; you would not have Miniſters medle with ſeculari<g ref="char:EOLhyphen"/>ties,
+povertie will make them more ſecular, and if Preachers be
+poore, there will be poore Preaching too at the laſt; Oh that eve<g ref="char:EOLhyphen"/>ry
+Lampe in the Kingdome had its proportionable oyle, that is
+your endeavour, and as you have no thought your ſelves to en<g ref="char:EOLhyphen"/>tangle
+your own Patrimonies with the Churches poſſeſſions, I
+wiſh you would declare to the world, you will not ſuffer others
+<pb n="16" facs="tcp:112593:12"/>
+to doe it; And again, I beſeech you in this; <hi>Let your Moderation
+be known,</hi> &amp;c.</p>
+            <p>3.<note place="margin">Templa.</note> And the fabricks of the Churches in ſome places call for
+your care, the ſtone out of the wall, and the beame out of the
+timber decaying apace: I am glad for my part, <hi>they are ſcoured of
+their gay gazing,</hi> and I marvelled a great while ſince, how, and
+why the Organs grew ſo many, and blew ſo loud, <hi>when the very
+Homilies accuſed them for defiling Gods houſe;</hi>
+               <note place="margin">Part 2. 131.</note> Much diſpute there
+was of late about adherent and inherent holineſſe of Churches,
+and it was accounted a ſinne to be covered in them, and it is now a
+pnniſhment in ſome not to be covered, a puniſhment by the
+winde and weather, from the roofe, and windowes; ſo eaſily men
+fall from one extreame to another, and tis meet that in this alſo
+your <hi>Moderation ſhould be knowne.</hi>
+               <note place="margin">Dies feſti.</note>
+            </p>
+            <p>4. And your Moderation muſt have influence upon Holy dayes
+alſo; the Lords day indeed, the holy Sabbath, is a <hi>Noli me tangere,</hi>
+you muſt not otherwiſe meddle therewith, then to ſanctifie it
+your ſelves, and command that by all others it be ſanctified, and in
+this you doe well to uſe all diligence, becauſe of the moſt profane
+and deſperate attempts of late made againſt it, as if we had beene
+Turkes or Pagans,<note place="margin">De C. B. l. 16. c. 32.</note> and not Chriſtians, from Chriſt; <hi>Divino praecepto
+intonante obediendum eſt, non diſputandum, Auguſtin.</hi> the thunder
+of Gods word was not heard, and now the thunder of Gods
+ſword is felt;<note place="margin">Immodicam fe<g ref="char:EOLhyphen"/>ſtorum multitu<g ref="char:EOLhyphen"/>dinem non ego ſolus improbo, praeſcrum, quia hodie nullis diebus plus pec<g ref="char:EOLhyphen"/>cetur, quam fe<g ref="char:EOLhyphen"/>ſtis; moderata feſta valde pro<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, ſed ea velim ſacris rebus, non voluptatibus &amp; ſceleribus dari. Io. Long Epiſc. Lincoln. l. 22. p. 914. De B. Philogon.</note> you have power, tis moſt happily improved for the
+Lord, and the day of the Lord; there is reaſon and religion your
+<hi>Moderation</hi> ſhould be knowne and ſhowne to the other feſtivi<g ref="char:EOLhyphen"/>ties,
+not onely becauſe of their abuſe, ſuperſtition, and other evills,
+but of their increaſe, the holy weeke of Lent crept into the rubri<g ref="char:EOLhyphen"/>cated
+Kalendar in theſe dayes: ſo did the Converſion of <hi>Paul</hi> and
+<hi>Barnabas</hi> his day. I would commend the zealots of this devotion
+to the care of Rome heathen, <hi>C. Caſſi: de Moderatione feſtorum,</hi>
+or els to their owne <hi>Lyndwood,</hi> or above them both to <hi>Eraſmus;</hi>
+for I haſten to make mention of that which I know every one ob<g ref="char:EOLhyphen"/>ſerves,
+that the providence of heaven is here become a Moderator,
+appointing the higheſt Feſtivitie of all the yeere, to meet with
+our monthly Faſt, and be ſubdued by it: for <hi>Chryſoſtome</hi> doth well
+call the day of Chriſts Nativitie <hi>the Metropolis</hi> and chiefe of all
+other feſtivalls; for indeed from this aroſe all the other dedicati<g ref="char:EOLhyphen"/>ons
+<pb n="17" facs="tcp:112593:12"/>
+in the name of Chriſt and his Apoſtles, which els had not been
+knowne in the world, thoſe be the children of that mother, and
+who is not abundantly ſatisfied with the hand of God upon them
+altogether, which hath, as <hi>Auſtin</hi> ſaid of the Iewes ſynagogue, gi<g ref="char:EOLhyphen"/>ven
+them an honourable buriall? but to thoſe that are not thus ſa<g ref="char:EOLhyphen"/>tisfied,
+I have three other things to ſay.</p>
+            <p>Firſt, Tis probable enough, we never yet kept right the day of
+Chriſts Nativitie,<note place="margin">Wolf. de T. p. 81.</note> I do not meane in reſpect of the manner, but the
+time, learned men ſuppoſing it very unlikely that ſuch a generall
+taxation ſhould be made through the peaceable world in the
+depth of winter, ſo unſeaſonable a time for all to travell into <hi>their
+owne Cities to be taxed, as in Luke 2. 1. &amp;c.</hi> not to mention their
+other conjectures.</p>
+            <p>Secondly,<note place="margin">Scromat. l. 1. m. p. 98.</note> 
+               <hi>Clemens Alexandrinus</hi> about 1400. yeeres ſince de<g ref="char:EOLhyphen"/>clares,
+that ſome thought the day of Chriſts birth was in the month
+of <hi>May,</hi> and others in <hi>Ianuary,</hi> others yet in <hi>Aprill;</hi> there were
+yet further ſurmiſings: but obſerve, if there was ſo little certainty
+in thoſe dayes, ſo neer the times of the Apoſtles, there muſt needs
+be much more uncertainty now.</p>
+            <p>Thirdly,<note place="margin">Epiſt. l. 9. 71.</note> It was <hi>Gregories</hi> counſell, that the Pagan feaſts ſhould
+by degrees be changed into Chriſtian Holy-dayes, that they might
+the more eaſily be drawne to Chriſtianitie; and ſome write expreſ<g ref="char:EOLhyphen"/>ly,
+that our Chriſtmas Feſtivities, in reſpect of time and maner of
+celebration,<note place="margin">Io. Beleth. c 120. Hoſpin. de Fe<g ref="char:EOLhyphen"/>ſtis Chriſtianis. p. 111.</note> came from the Saturnals of the Gentiles; Theſe were
+alſo obſerved in the month of <hi>December,</hi> They had their liberall
+Feaſtings and Invitations, ServantS among them alſo at that time
+were Maſterly and followed their owne affairs, They had a wilde
+Ceremony, like to the Lord of Miſrule in ſome places, New-yeers
+gifts were alſo ſent abroad, which <hi>Hierome</hi> calls <hi>Saturnalium ſpor<g ref="char:EOLhyphen"/>tulas.</hi>
+But it will be ſaid,<note place="margin">Object.</note> this is hard doctrine for ſervants, whoſe
+condition ſhall be worſe then beaſts, if they have no reſt, nor relax<g ref="char:EOLhyphen"/>ation,
+and ſhall thoſe abuſes quite aboliſh the memory of Chriſts
+Birth and Nativitie, and that among Chriſtians? Is this your <hi>Mo<g ref="char:EOLhyphen"/>deration?</hi>
+this reliſheth ſurely of extreame exceſſe rather.<note place="margin">R.</note> I have
+three things to ſpeake againſt this pretence, not doubting, but that
+ſervants ſhall have time allotted them for their refreſhing, and yet
+God not robbed of his honour, care being taken that their ſports
+be not ſinfull, nor they in them; and if any Sermon or Lecture oc<g ref="char:EOLhyphen"/>caſionally
+<pb n="18" facs="tcp:112593:13"/>
+be in the place, and on the day of their refreſhings, that
+they repaire thither alſo, for even the Canons of 1604. required
+Schoolemaſters to bring their Schollers to the Sermons, ſee them
+quietly and civilly behave themſelves there, and examine them
+at times convenient what they have learned by ſuch comming<g ref="char:punc">▪</g>
+Yea their condition then both inwardly and outwardly will
+bee much bettered.<note place="margin">Can. 79.</note> And to the other part of the Objection
+I ſay;</p>
+            <p>Firſt, I wiſh on mine owne behalfe and others, that thoſe hea<g ref="char:EOLhyphen"/>theniſh,
+mad, and riotous uſages had never been knowne among
+Chriſtians, and that now they might be quite abandoned for ever;
+but let the neighbour-hood, and charity of thoſe times at leaſt
+in ſome time of the yeere be continued; ſure I am, that ſome
+who had withered hands all the yeere beſide, did at that ſeaſon
+ſtretch them out to the poore.</p>
+            <p>Secondly, Though this day of Chriſts Birth be thus overcome
+by our monethly Faſt, yet our Saviours Nativitie hath, and ſhall
+have its Commemoration, not onely in the Day ſolemnized for
+his Reſurrection, in which is involved all the Complement and
+Conſummation of Chriſts doing and ſuffering, and Exaltation; but
+further, the Lords Day is thought to be the very determinate Day
+of the weeke when Chriſt was borne; for thoſe that mention the
+Priviledges of the elder Brother, the firſt Day of the weeke, ſay
+it was not onely the firſt Day of the world, no night went before
+it,<note place="margin">Alb. M. Comp. p. 158.</note> but it ſhall be the laſt day, and no night ſhall come after it, and
+that it was the very Day of Chriſts Birth and Baptiſme, &amp;c.</p>
+            <p>Thirdly, If the ſerious diſquiſition of Hiſtorians, and Mathemati<g ref="char:EOLhyphen"/>cians,
+ſhall calculate and deſigne the moneth &amp; the day, I ſhall not
+vote againſt the Chriſtian celebration therof, but as at Berne, when
+the Goſpel was firſt reintroduced, they ſet their priſoners at liber<g ref="char:EOLhyphen"/>tie,
+and proclaimed freedome; and we obſerve a Day in memory
+of our Deliverance from that Helliſh, Romiſh Powder Plot; ſo, if
+God pleaſe to deliver us from the Diabolicall deſignes of theſe
+times, I hope you will appoint a Day in Commemoration thereof.</p>
+            <p>Fifthly,<note place="margin">Jejunia.</note> And for Faſting Dayes, your Chriſtian <hi>Moderation</hi> is
+already made <hi>known,</hi> not twice or thrice in the weeke, which they
+ſaid of old might ſavour of vain-glory,<note place="margin">Vit. Pat. part. 2. p. 150. 4.</note> neither have you com<g ref="char:EOLhyphen"/>manded
+ſuch rigourous obſervation, as <hi>Luther</hi> blamed in <hi>Melanct.</hi>
+               <pb n="19" facs="tcp:112593:13"/>
+macerating his body,<note place="margin">Vit. ubi ſup.</note> 
+               <hi>quaſi ferrum, aut ſaxum eſſet;</hi> nor as <hi>Ber<g ref="char:EOLhyphen"/>nard,</hi>
+who confeſſed he did too much debilitate his body by abſti<g ref="char:EOLhyphen"/>nence,
+and watching, but as <hi>Zach.</hi> 8. 19. The Faſt of the fourth
+moneth, &amp;c. and yet beſides this, you have had many other occa<g ref="char:EOLhyphen"/>ſionall
+dayes of Humiliation, that which you had the laſt weeke a<g ref="char:EOLhyphen"/>mong
+your ſelves, was moſt remarkable among men, and accepta<g ref="char:EOLhyphen"/>ble,
+we are aſſured, unto your God alſo, and yet I crave leave to in<g ref="char:EOLhyphen"/>vite
+unto one Solemn Faſt more: Oh that a Trumpet were blown
+in Sion, and a Faſt ſanctified; but I would have it ſanctified, tho<g ref="char:EOLhyphen"/>row
+both the Armies, in all the Kingdome, and though your pow<g ref="char:EOLhyphen"/>er
+reach not ſo farre, I wiſh it were tendered to them; and triall
+were made of them; however, two moſt memorable occaſions
+implore Divine direction and bleſſing upon your unwearied la<g ref="char:EOLhyphen"/>bours.</p>
+            <p>Firſt, Treatie of Pacification, is in your ſerious endeavours, that
+the Kingdoms may yet be happy in a <hi>ſafe and well-grounded Peace;</hi>
+&amp; it is high time to haſten it, the whole Land almoſt is already laid
+waſte by the Sword, which, if not ſpeedily ſheathed, is bringing
+upon us a worſe evill unavoydably, a Famine; for <hi>they that be ſlain
+with the ſword, are better then they that be ſlain with hunger,</hi> &amp;c.
+<hi>Lam.</hi> 4. 9. but let not the feare of Sword, or Famine ſcare you
+into any other Peace then that which is the Peace of God made
+in Chriſt, joyned with truth, elſe a greater miſchiefe will fall up<g ref="char:EOLhyphen"/>on
+the Nation, then warre or hunger; <hi>Not a famine of bread, or
+a thirſt for water, but of hearing the word of God,</hi> &amp;c. <hi>Amos</hi> 8. 11.
+Great cauſe have we therefore now to cry mightily unto God, and
+<hi>ſeeke of him a right way for us, and for our little ones, and for all our
+ſubſtance, Ezr.</hi> 8. 21.</p>
+            <p>Secondly, The great change in Eccleſiaſticals, that is to appeare
+ſuddenly in the Kingdome, in reſpect of Worſhip and Govern<g ref="char:EOLhyphen"/>ment,
+may well double our devotions in this very time;<note place="margin">Prolog. in Matth.</note> 
+               <hi>Hierome</hi>
+Writes, that when <hi>Cerinthus, Ebion,</hi> and other heretiques, denyed
+Chriſts coming in the fleſh, the holy men of thoſe times deſired
+Saint <hi>Iohn</hi> the Evangeliſt, to write his Goſpel in their confutati<g ref="char:EOLhyphen"/>on;
+which he promiſed, upon their undertaking to Faſt, and Pray
+for Gods bleſſing: which done, Saint <hi>Iohn,</hi> he ſaid, was full of the
+holy Ghoſt, and wrote; <hi>In the beginning was the Word,</hi> &amp;c. <hi>Joh.</hi>
+1. 1. And indeed when the greatneſſe of this worke is looked
+<pb n="20" facs="tcp:112593:14"/>
+upon, with the multitude of oppoſers, there is great reaſon we
+ſhould all with our holieſt diligence invocate the Majeſtie of hea<g ref="char:EOLhyphen"/>ven,
+that theſe things may tend to his glory, and finde acceptation
+in the ſouls, hearts, and lives of the people.</p>
+            <p>Sixthly,<note place="margin">Eccleſiaſtici.</note> The men of my Profeſſion deſire to have a ſhare in
+your <hi>Moderation</hi> alſo; and indeed I cannot think, but that of <hi>Titus,</hi>
+otherwhere called,<note place="margin">Joſeph. de B. J. 7. lib. c. 13.</note> 
+               <hi>deliciae humani generis,</hi> favoured not of huma<g ref="char:EOLhyphen"/>nitie,
+when his ſouldiers had taken the Temple at Hieruſalem, and
+the Prieſts begged their lives, he denyed them, ſaying, they ſhould
+periſh together; I wiſh all the evils of theſe men were deſtroy<g ref="char:EOLhyphen"/>ed,
+but doe none of their perſons deſerve favour? did none of
+them, to their power, withſtand the inundation of ſuperſtition?
+When the Monks and Nunnes here thruſt themſelves out of their
+unclean Cages; they had ſalaries for their lives, and in other coun<g ref="char:EOLhyphen"/>treys,
+<hi>Exire poterunt ad laborem,</hi>
+               <note place="margin">Mycou. Vit. Zuingli.</note> 
+               <hi>coniugium, literas, quis erat a<g ref="char:EOLhyphen"/>nimus,</hi>
+They were diſmiſſed from their employment, but had ſti<g ref="char:EOLhyphen"/>pends
+to their death: You have already herein declared your <hi>Mo<g ref="char:EOLhyphen"/>deration,</hi>
+in aſſigning a portion, for the ſupport of wife, and chil<g ref="char:EOLhyphen"/>dren,
+and it were well, if no complaints were brought before you
+againſt ſome, that are ſo loath to part there with.</p>
+            <p>Seventhly,<note place="margin">Heterodoxi.</note> Another ſort of men call for your <hi>Moderation;</hi> yea,
+and plead merit too; I know not what to call them, but I meane
+the men of many opinions, though, I hope, they be neither ſo nu<g ref="char:EOLhyphen"/>merous,
+nor faultie, as their oppoſites ſuggeſt, and yet to as many
+of them, as pretend to godlineſſe, and be with us in Covenant, I
+ſay no more, but wiſh them to read it, to ſtudy it, to keep it; in the
+reſt, I would wonder with what conſcience, or wiſdome they
+abſtaine from that bond, when the Romaniſts univerſally are in
+armed combination againſt them, and us; a very hard matter, I con<g ref="char:EOLhyphen"/>feſſe,
+it is to moderate erroneous opinions, ſome have dared into
+the world that ſhould have been, Anonyma, not once named as
+becometh Saints; and for the reſt, I thought ſometimes, and par<g ref="char:EOLhyphen"/>don
+me, if I thinke ſo ſtill, if their <hi>Tenents</hi> were commanded
+from them, in expreſſe termes, they would appeare, either not to
+be <hi>tanti,</hi> that for them publique tranquillitie ſhould be endangered,
+or elſe coming forth naked into the world, barefaced, and in their
+colours, they would be a ſhame to their abbettors.</p>
+            <p>Eightly,<note place="margin">Papifts.</note> The Papiſts indeed, that be Ieſuited, in reſpect of
+<pb n="21" facs="tcp:112593:14"/>
+their guilt, and <hi>Irelands</hi> bloud, expect not your <hi>Moderation;</hi> and
+ſurely ſuch ſhould be ſhowne them, as may preſerve your ſelves
+and the Kingdomes from their frauds and cruelties; againſt which
+you will be now more vigilant then ever, becauſe they have re<g ref="char:EOLhyphen"/>vealed
+now more then ever their evill intentions, and can ſwal<g ref="char:EOLhyphen"/>low
+thoſe oathes without chewing, which former times of peace<g ref="char:EOLhyphen"/>ableneſſe
+could not get downe, by any art or perſwaſion: and
+though their very Religion,<note place="margin">p. 503.</note> like <hi>Draco's</hi> Lawes, be written in
+bloud, as King <hi>Iames</hi> obſerved: and in the Nether-lands they
+made a ſhew of <hi>Moderation,</hi> and called their Edict ſo, yet even
+that in truth was, was felt, and was then called <hi>Murderation;</hi> alſo as
+<hi>Meterane</hi> writes,<note place="margin">p. 46</note> they had then their <hi>Conſilium ſanguinis:</hi> they
+walke by the ſame Principles, and worſe Practiſes; yet none
+of them ever ſuffered death among us meerely for Religion. [I
+had other particulars to have mentioned, but I ſaw the time would
+not permit me to ſpeak them out of the Pulpit; I forbeare them
+therefore now alſo;<note place="margin">Secunda par. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>] and I come to handle the reaſon of the Text,
+but Doctrinally, and very briefly: <hi>The Lord is at hand:</hi> and I ſhall
+not inſiſt upon the Lords being at hand, by his providentiall ap<g ref="char:EOLhyphen"/>proximation
+to ſupport us in, or deliver us from trouble, as <hi>Pſal.</hi>
+22. 11. <hi>Be not farre from me, O Lord, for trouble is neere:</hi> nor
+how <hi>he is at hand</hi> to obſerve all our actions, ſo keeping us in awe
+and obedience, becauſe <hi>All things are naked, and opened to the eyes
+of him with whom we have to doe,</hi> Heb. 4. 13. But in this Doctri<g ref="char:EOLhyphen"/>nall
+part of the propinquitie of our Lords coming to judgement,
+I ſhall ſhew firſt, the parallel Scriptures; and ſecondly, the pro<g ref="char:EOLhyphen"/>bable
+reaſons thence; and then the Application will be in ſuch
+practicall uſes as you ſhall ſee Gods Word hold forth viſibly in
+thoſe places where the Text, or the ſenſe of it, is mentioned.</p>
+            <p>Firſt,<note place="margin">Scripture.</note> It is very conſiderable that the Apoſtles all ſo ſpeake, as if
+Chriſt, the Lord, would in their dayes come to judgement, ſo
+many hundred years agoe. Thus 1 <hi>Cor. 10. 11. We are they upon
+whom the ends of the world are come.</hi> So <hi>Heb. 10. 37. Yet a little while,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>yet a very very little while, and he that ſhall come,
+will come, and will not tarry.</hi> And Saint <hi>Iames 3. Behold, the Iudge
+ſtandeth before the doore,</hi> 5. 9. And Saint <hi>Peter, The end of all things
+is at hand:</hi> And thus Saint <hi>Iohn, It is the laſt time, 1 Ioh.</hi> 2. 18. And
+ſo Saint <hi>Iude,</hi> 18. And if ſo then a thouſand years agoe, it is the
+<pb n="22" facs="tcp:112593:15"/>
+miracle of miracles, that yet the Lord is not come to judgement:
+the ſucceeding Ages after the Apoſtles were of the ſame mind,
+and they watched on Eaſter Even by ancient tradition, as if their
+Maſter Chriſt would in one of thoſe Vigils come to judge
+the world; <hi>in ſimilitudinem Aegyptii temporis,</hi> ſaith <hi>Tertullian:
+As Pharaoh the King roſe up in the night,</hi>
+               <note place="margin">p. 107. <hi>K.</hi> Lactan. 7. 19. Hieron. in <hi>Matth.</hi> 25. Auguſt. de T. 154. 251. De Vn. Eccl. p. 301.</note> 
+               <hi>and all his ſervants, and
+there was a great cry in Egypt, &amp;c.</hi> Exod. 12. 30. And in <hi>Cyprians</hi>
+time all things were accompliſhed, as he thought, that were
+forerunning tokens of the worlds end. It were eaſie to heape up
+the conjectures of ſeverall Centuries; but we muſt all acquieſce
+in the determination of our Maſter who ſhall be the Iudge, <hi>Matt.</hi>
+24. 36. <hi>Of that day and houre knoweth no man, no not the Angels of
+heaven, but the Father onely.</hi> But that I may prepare my ſelfe
+and you to the ſerious and practicall conſideration of the fore-men<g ref="char:EOLhyphen"/>tioned
+Vſes: obſerve theſe Scripture arguments.</p>
+            <p>Firſt,<note place="margin">Reaſons.</note> 
+               <hi>There ſhall be ſignes in the Sunne, and the Moone, &amp;c.
+Luk.</hi> 21. 25. And if Mathematicians, may be credited, the cele<g ref="char:EOLhyphen"/>ſtiall
+Orbes are not as they were:<note place="margin">Aret. Probl. p. 1016.</note> the Sunne not ſo diſtant from
+us as at the firſt, but nearer by many Germane miles; to ſay
+nothing of the prodigious ſights and noiſes ſeene and heard in our
+dayes.</p>
+            <p>Secondly, <hi>Mens hearts faile them for feare, &amp;c.</hi> Luk. 21. 26<g ref="char:punc">▪</g>
+As lightning is firſt ſeene, then thunder heard; ſmoke precedes
+fire, and the ſea ſwels before a ſtorme; ſo the ſoule of man, that
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Epiſt.</note> as <hi>Syneſius,</hi> cals it, droops before danger, trembles be<g ref="char:EOLhyphen"/>fore
+it is hurt, and by its inward timorouſneſſe foretels evils to
+come; and that appeares by the ſeverall preſagings of men that
+diſcover their feares by their conjectures: That famous <hi>Grebner</hi>
+found out the yeare of the worlds end by the word <hi>Iudicium,</hi>
+               <note place="margin">J<g ref="char:V">Ʋ</g>DICI<g ref="char:V">Ʋ</g>M numerum rui<g ref="char:EOLhyphen"/>turi continet orbis. Problem. p. 1057. Ecce Sponſ. ven.</note> eve<g ref="char:EOLhyphen"/>ry
+letter thereof being numerall; but we have already outlived
+that fancie above thirty years. <hi>Aretius</hi> by ſome Chronogramma<g ref="char:EOLhyphen"/>ticall
+expreſſions of Scripture, propoſed this next to be the laſt
+yeare of the world. Doctor <hi>Alabaſters</hi> conceit out of thoſe two
+Greeke words, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, may ſavour of fancy and feare.</p>
+            <p>Thirdly, Religion and Holineſſe, the two pillars of Heaven and
+Earth, are ſo much decayed and diſcountenanced, as we need no
+other demonſtration that <hi>thoſe laſt and perillous times</hi> are come,
+that Saint <hi>Paul</hi> ſpake of, 2 <hi>Tim.</hi> 3. 1. For as the old age of man,
+<pb n="23" facs="tcp:112593:15"/>
+the leſſer world, is full of corporall infirmities; ſo the greater
+world in its declining eſtate abounds with manifold abominati<g ref="char:EOLhyphen"/>ons:
+read at leaſure the two next verſes, and ſee how un<g ref="char:EOLhyphen"/>happily
+theſe dayes comment upon them; if you thinke on any
+one of thoſe ſinnes, the ſame thought will tell you where to find
+them.</p>
+            <p>Fourthly, The unnaturall diviſions that are up in the world, are
+undenyable preſages that the <hi>Lord is at hand:</hi> for when the
+Diſciples privately demanded of their Maſter, what ſhould be the
+ſignes of his coming to judgement; among others this is recor<g ref="char:EOLhyphen"/>ded
+by the three Evangeliſts: <hi>The brother ſhall betray the brother
+to death, and the father the ſonne, &amp;c.</hi> Mar. 13. 12. <hi>Matth.</hi> 24. 10.
+<hi>Luk.</hi> 21. 16. And we need not enquire among Iewes, Turkes,
+and other Nations for the accompliſhment hereof; but as Chriſt
+in another caſe, <hi>Luk.</hi> 4. 21. I may ſay, <hi>This day is this Scripture
+fulfilled in your cares,</hi> O <hi>England:</hi> never ſince thou wert a Na<g ref="char:EOLhyphen"/>tion
+didſt thou ſee thy ſelfe ſo miſerably torne, and rent with ſuch
+civill, uncivill, unnaturall, and bloudy diſtractions: If it had beene
+ſaid to any of thy people, foure or five yeares ſince, that they
+ſhould doe ſuch things, as are now done in the midſt of thee; they
+would have replied with the indignation of <hi>Hazael, 2. King.</hi> 8. 13.
+<hi>Are we dogges,</hi> deſtitute of all humanity, <hi>to doe this?</hi> and yet,
+wretched things are done by men, Chriſtian men, <hi>Engliſhmen</hi> a<g ref="char:EOLhyphen"/>gainſt
+<hi>Engliſhmen,</hi> profeſſing the ſame Religion, proteſting the
+ſame Cauſe, and End of their quarrell: O that thou couldſt yet diſ<g ref="char:EOLhyphen"/>cerne
+thoſe formidable clouds of bloud in their ſcattering: but
+alaſſe, they threaten worſer evils, even to make thee a full ſea of
+bloud within, as thou art without ſurrounded by water: for the
+wofull diviſions of <hi>England</hi> there be great thoughts of heart: I
+will not ſay, as <hi>Ieremie 2. 12. Be ye aſtoniſhed, O heavens, at this;</hi>
+Nor, <hi>be aſhamed ye Husbandmen,</hi> Ioel 1. 11. But let all thoſe be
+aſhamed and aſtoniſhed, Prophets and people, that have not help<g ref="char:EOLhyphen"/>ed
+to quench, but kindle this fire: <hi>This is indeed a lamentation, and
+ſhall be for a lamentation,</hi> Ezek. 19. 14. But to returne from this
+ſad complaint upon our moſt miſerable diſſenſions, a dolefull pre<g ref="char:EOLhyphen"/>ſage
+that <hi>the Lord is at hand,</hi> the props of the world decay; pro<g ref="char:EOLhyphen"/>digious
+ſights portend as much, and the fainting of mens hearts
+fore-bode the ſame: I am not ignorant, that ſome convinced by
+<pb n="24" facs="tcp:112593:16"/>
+ſtrong evidence of Chriſts reigning here upon earth; before that
+time, underſtand all theſe places of that coming of Chriſt; and my
+purpoſe is not at all to pry into thoſe hard and hidden moments of
+Gods owne concealing: and ſure I am, thoſe that wade this
+way meet with deepe difficulties; as bow?</p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irſt, all the fore-named Scriptures ſhould be ſo applied,
+1 Cor. 10. 11. <hi>The ends of the world are come:</hi> and it is not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+the Romane world or Empire, as <hi>Luk.</hi> 2. 1. And Saint
+<hi>Peter</hi> is yet more univerſally expreſſe; <hi>The end of all things is at
+hand,</hi> 1 Pet. 4. 7.</p>
+            <p>Secondly, the day of judgement is called, <hi>A great and notable
+day, Act. 2. 20. An appointed day,</hi> 17. 31. Yet it is more then
+one, <hi>one of the dayes of the Sonne of man,</hi> Luk. 17. 22. 26.</p>
+            <p>Thirdly, Who can determine the finals of the Beaſts power,
+unleſſe the Originals were manifeſt? <hi>Rev.</hi> 13. 5, &amp;c.</p>
+            <p>I might ſay much of Ancient and Moderne confidences this
+way, but my purpoſe is to improve the remaining time allotted,
+in the ſerious conſideration of what God himſelfe tels, we ought
+all practically learne from the <hi>Lords being at hand,</hi> and the judge<g ref="char:EOLhyphen"/>ments
+now in the land may, and ought to haſten theſe truths home
+to our ſoules.</p>
+            <p>Firſt,<note place="margin">Repentance.</note> Speedy Repentance from dead workes: reade <hi>Act.</hi> 17.
+30, 31.—<hi>Now he commandeth all men every where to repent,
+becauſe he hath appointed a day in which he will iudge the world, &amp;c.</hi>
+Many things are here obſervable, but the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>Now,</hi> is that
+I deſire to faſten upon you, and my ſelfe; for if in Saint <hi>Pauls</hi>
+dayes it was an argument of, and to Repentance; it ſhould much
+more accelerate us thereunto, upon whom the Lord is nearer
+now by ſixteene hundred yeeres. Conſider with thy ſelfe then,
+O my ſoule, and ſuppoſe, thou wert here guilty of ſome capitall
+crime, for which the Iudge were ready to reckon with thee, and
+paſſe ſentence of death, or deliverance, as he finds thee; couldeſt
+thou ſleepe or be ſecure? or wouldeſt thou trifle away thy time?
+would not all thy care be by ſome meanes or other to gaine favour
+from the Iudge? Be thou aſſured, O my ſoule, <hi>That the ungodly
+ſhall not ſtand in the iudgement,</hi> Pſal. 1. 5. Thy conſcience knows
+what a load of ſinne lies upon thee; <hi>even a burden too heavie for
+thee to beare,</hi> Pſal. 38. 4. Oh why doſt thou not haſten to eaſe thy
+<pb n="25" facs="tcp:112593:16"/>
+ſelfe of this weight by unfained repentance, before the Iudge
+come, and pronounce the irrevocable ſentence? Read, and re<g ref="char:EOLhyphen"/>member
+to doe as <hi>Act. 3. 19. Repent ye, and be converted, that your
+ſinnes may be blotted out, when the times of refreſhing ſhall come from
+the preſence of the Lord.</hi> Infinit is the matter of our Humiliation,
+in reſpect of nature, perſons, and nation; of paſt, and preſent
+times: but this day, and thoſe next it, have beene heretofore the
+onely merry ſeaſon of the yeare, and the Devill hath beene ſerved
+better on thoſe Twelve dayes, then on all the twelve moneths be<g ref="char:EOLhyphen"/>ſide;
+and our Maſter Chriſt hath moſt unchriſtianly by many been
+diſhonoured, even in thoſe dayes ſaid to be devoted to his glory:
+And I may borrow here the words of <hi>Nicholas de Clemangis,</hi>
+               <note place="margin">M. p. 143.</note>
+touching his Popiſh Feſtivities; What heathen man, if he had
+come into thoſe feaſts, ſeene and heard our Chriſtmas Gamboles,
+would not have taken them rather to be the <hi>Floralia</hi> of <hi>Ve<g ref="char:EOLhyphen"/>nus,</hi>
+or the <hi>Orgia</hi> of <hi>Bacchus,</hi> then Chriſtian holy dayes? and who
+can lay his hand upon his heart, and ſay, he is innocent as touching
+this in all reſpects?<note place="margin">Ordinance.</note> Great cauſe therefore had your Ordinance to
+command this <hi>day to be kept with more ſolemne humiliation, becauſe
+it may call to remembrance our ſinnes, and the ſinnes of our fore-fathers,
+who have turned this feaſt, pretending the memory of Chriſt,
+into an extreme for getfulneſſe of him, by giving libertie to carnall
+and ſonſuall delights, being contrary to the life which Chriſt himſelfe
+led here upon earth:</hi> Thoſe dayes were profeſſedly dedicated to
+extraordinary mirth, and rejoycing: we read no ſuch thing of our
+Maſter Chriſt at any time, but he wept often, <hi>and offered up many
+prayers, and ſupplications with ſtrong crying and teares,</hi> Heb. 5. 7.
+Our Maſter Chriſt was never idle; but <hi>went about doing good,</hi> Act.
+10. 38. and elſewhere, every where in the Goſpel; but among
+us it was accounted almoſt a crime, for men, or their ſervants to
+doe any labour on any of thoſe dayes: practiſes, as your Ordinance
+ſaid truly, <hi>contrary to the ſpirituall life of Chriſt in our ſoules, for
+the ſanctifying and ſaving whereof Chriſt was pleaſed both to take
+an humane life, and to lay it downe againe:</hi> but the extreme for<g ref="char:EOLhyphen"/>getfulneſſe
+of Chriſt in thoſe dayes of Chriſt, the extreme exceſſe
+of carnall and ſenſuall delights were moſt extremely diſtant from
+that ſpirituall life ſhould be in Chriſtians, <hi>who worke out their ſal<g ref="char:EOLhyphen"/>vation
+with feare and trembling,</hi> Phil. 2. 12. not in ſecure, hea<g ref="char:EOLhyphen"/>theniſh,
+<pb n="26" facs="tcp:112593:17"/>
+and profane merriment; <hi>They paſſe the time of their ſo<g ref="char:EOLhyphen"/>iourning
+here in feare,</hi> 1 Pet. 1. 17. Not onely becauſe he <hi>that hath
+called us is holy, and bids us to be ſo likewiſe,</hi> verſ. 15. 16. but be<g ref="char:EOLhyphen"/>cauſe
+of our <hi>redemption by the precious bloud of Chriſt, &amp;c.</hi> verſ. 18,
+19. therefore we ſhould <hi>paſſe our time in feare;</hi> not in wanton,
+wild, and impious paſtimes, which doe put men into a poſture
+altogether unmeet for the ſervice of Chriſt, or care of our ſoules:
+had the Nation no other ſinnes to anſwer for, ſurely without the
+bloud of Chriſt, whom men have ſo much diſhonoured to his face,
+we ſhould be in a moſt deſperate condition: Goe hence there<g ref="char:EOLhyphen"/>fore
+and examine, and bewaile, and conſider, Gods providence
+hath made this day, this very day, the head of all that jocundity, a
+day of Humiliation; doe not miſcall it, let it be ſo to every one of
+us, for our owne, the Nationall tranſgreſſions it hath beene for<g ref="char:EOLhyphen"/>merly
+guilty of in thoſe dayes; and if the Lord, <hi>who is at hand,</hi> had
+called any of us out of the world, when we were buſie in thoſe
+fooliſh, vaine, and unchriſtian uſages; we may now tremble to
+thinke how unfit we had beene to meet the Lord Ieſus coming
+in the clouds.</p>
+            <p>Secondly,<note place="margin">Heavenly-mindedneſſe.</note> Let us wiſely weane our ſelves from the world,
+and this we learne from the very next words after the Text, <hi>The
+Lord is at hand, In nothing be carefull:</hi> Yea, our Lord himſelfe
+gives us the ſame counſell, in the very ſame words, <hi>Luk.</hi> 21. 34.
+<hi>Take heed that your hearts be not at any time overcome with the
+cares of this life, and that day come upon you unawares:</hi> There may
+be a ſeaſon for other things, but none for Chriſtians to be ſollicitous
+for earthly things: <hi>Our Father is in heaven, ſo we ſay, ſo we
+pray; heaven is our Countrey, ſo we profeſſe,</hi> Heb. 11. 16. Why
+doe we then digge ſo deepe in the earth, and deſire to load our
+ſelves with thick clay? The Apoſtle, in the Chapter before my
+Text, hath expreſſions that may loath any man thereof; <hi>whoſe end
+is deſtruction, and their glory is in their ſhame, who mind earthly
+things,</hi> Phil. 3. 19. Damnation is their end, and why ſhould not
+Hell be their portion, who care not for Heaven? But they are
+the brave men of the world in the meane time: No ſuch matter,
+<hi>their glory is in their ſhame;</hi> they wallow in the myre with ſwine,
+that might have converſed with Saints: But who are thoſe dam<g ref="char:EOLhyphen"/>nable
+and inglorious men? <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, men that
+<pb n="27" facs="tcp:112593:17"/>
+are wiſe for <hi>the world, that mind earthly things.</hi> What ſhall I ſay
+more, what can I adde better, then that of the Apoſtle, 1 <hi>Cor.</hi>
+7. 29, 30, 31. <hi>This I ſay brethren, the time is ſhort, it remaineth that
+both they who have wives, be as though they had none; and they that
+weepe, as though they wept not; and they that reioyce, as though
+they reioyced not; and they that buy, as though they poſſeſſed not;
+and they that uſe this world, as though they uſed it not; for the fa<g ref="char:EOLhyphen"/>ſhion
+of this world paſſeth away:</hi> The dehortation is very full and
+emphaticall; but that which I eſpecially obſerve in it is, that it is
+compaſſed in, and about, at the beginning, and in the end, with
+the argument of my Text, leſt our hearts, that hanker ſo much
+world-ward, ſhould any way get out, after it.</p>
+            <p>Thirdly,<note place="margin">Perſeverance.</note> 
+               <hi>The Lord is at hand,</hi> therefore conſtantly perſevere
+in his holy truths, and this Vſe is held out to us by <hi>Iohn</hi> the Divine,
+<hi>Bleſſed is he that readeth, and they that keep the words of this Pro<g ref="char:EOLhyphen"/>pheſie:
+for the time is at hand,</hi> Revel. 1. 3. Yea and S. <hi>Paul,</hi> aſſoon as
+he had mentioned this doctrine, 1. <hi>Cor.</hi> 10. 11, makes this very uſe
+and application; <hi>Wherfore let him that thinketh he ſtandeth, take heed
+leſt he full, ver.</hi> 12. He that is ſtrong, muſt not be ſecure, becauſe he
+ſtands in ſlippery places, nay he ſtandeth not, onely <hi>he thinketh that
+he ſtandeth, therfore let him take heed leſt he fall:</hi> and caution for per<g ref="char:EOLhyphen"/>ſeverance
+is not onely ſutable to my text, but the times, theſe ſuf<g ref="char:EOLhyphen"/>fering
+times, wherein men are moſt apt to recidivate, and fall
+away, as the parable of the <hi>ſeed and ſowers make evident, Matth.</hi>
+13. 21. <hi>Peter</hi> and the other Apoſtles promiſed fairly to them<g ref="char:EOLhyphen"/>ſelves,
+and their Maſter in the Calme, <hi>Though wee ſhould die with
+thee, yet will we not deny thee, ſo ſaid all the Diſciples, Mat.</hi> 26. 35.
+Yet in the ſtorm, nay before the ſtorme came at them, they runne
+away for feare, they haſte to ſhelter, indeed from ſhelter, becauſe
+from Chriſt, <hi>They all forſooke him, and ſted, verſ.</hi> 56. Thus <hi>Demas</hi>
+entangled with the love of earthly things, deſerts Chriſt, and his
+Apoſtle, <hi>embraceth the preſent world, and departs to Theſſalonica,</hi>
+2. <hi>Tim.</hi> 4. 10. where he is made a keeper of the Pagan Idoles, as
+ſome of the Ancient have recorded;<note place="margin">Doroth. Synop.</note> but as for us, let that of our
+Maſter Chriſt be ever in our ears, alwayes in our hearts, <hi>Luk.</hi> 12. 9.
+<hi>He that denieth me before men ſhall be denyed before the Angels of
+God,</hi> and if Chriſt turne his face from thee in that day, tremble at
+thy doome, who will, who can; who dare ſpeake for thee, if thine
+<pb n="28" facs="tcp:112593:18"/>
+owne Advocate be ſilent, and indeed it is moſt juſt they be ſo dealt
+with, that Apoſtatize from the truths of Chriſt; it is juſt, I ſay,
+<hi>Lege talionis,</hi> even by the Law of retaliation; for that's the ſentence
+of the holy Ghoſt, <hi>If we deny him, he will alſo deny us,</hi> 2. Tim.
+2. 12.</p>
+            <p>Fourthly,<note place="margin">Holineſſe.</note> Zealous endeavours after holineſſe: and thus S. <hi>Paul</hi>
+having ſpoken of the <hi>Iudgement to come, 2 Cor.</hi> 5. 10. he adds
+preſently, <hi>verſ 11. Knowing therefore the terrour of the Lord, we
+perſwade men,</hi> to what? but the righteous actions of godlineſſe and
+Chriſtianity: and upon this very foundation S. <hi>Peter</hi> builds a ſtrong
+argument to holineſſe; for having ſpoken at large doctrinally of
+the day of the Lord, as alſo concerning the formidable manner of
+his coming, 2 <hi>Pet. 3. 11. Seeing then that all theſe things muſt be
+diſſolved, what manner of perſons ought ye to be in all holy converſa<g ref="char:EOLhyphen"/>tion
+and godlineſſe?</hi> he interrogates, but anſwers not, not becauſe
+the holy Ghoſt was at a <hi>Non plus,</hi> and could not expreſſe it; but be<g ref="char:EOLhyphen"/>cauſe
+he would have us enquire, examine, and increaſe in every
+good word and worke in our own perſons, and as farre as ever our
+relations doe, and can reach private men in their intereſts, pub<g ref="char:EOLhyphen"/>lique
+perſons in their engagements, according to that of the holy
+Prophet, which concerns every one of us, <hi>Let iudgement run
+downe as waters, and righteouſneſſe as a mighty ſtream, Amos</hi> 5. 12.
+It muſt be done ſpeedily, delayed no longer, <hi>let it run downe,</hi> and
+it muſt be performed impartially, <hi>run down as waters,</hi> which favour
+none, drench all that be neer them, yea and powerfully alſo, <hi>as a
+mightie ſtream,</hi> that will ſuffer no obſtructions, but beares all oppo<g ref="char:EOLhyphen"/>ſitions
+before it; and that of the author to the <hi>Hebrews</hi> is pertinent
+to this purpoſe alſo, <hi>Let us conſider one another to provoke unto love,
+and to good works, not forſaking the aſſembling of our ſelves together
+as the manner of ſome is, but exhorting one another, and ſo much the
+more, becauſe ye ſee the day approaching, Heb.</hi> 10. 24. 25. a Scripture
+otherwiſe remarkable in theſe times, wherein men conſider one
+another, and provoke not to love, but to ſchiſme, and ſiding, not to
+good works, but their owne fancies, to ſeparation, <hi>and forſaking the
+aſſemblies:</hi> but there the Apoſtle layes the force, and ſo would I,
+in the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>ſo much the more</hi> provoke one another to
+good works, <hi>becauſe ye ſee the day approaching.</hi>
+            </p>
+            <p>Fifthly,<note place="margin">Patience.</note> Chriſtian Patience in tribulation, is the next thing to be
+<pb n="29" facs="tcp:112593:18"/>
+learned from this doctrine of the <hi>Lords being at hand;</hi> an hard leſſon
+I confeſſe, and they are out of the Forme, and Schoole of nature
+that have learned it, for it is an herbe of Grace, and grows not in
+mans garden, we are all by <hi>nature children of wrath, Eph.</hi> 2. 3. not
+onely <hi>paſſively,</hi> ſubject to ſuffer the wrath of God becauſe of our
+ſinnes, but <hi>actively</hi> alſo, we are hot, fiery, and impatient, and upon
+every occaſion doe diſcover our diſtemper; <hi>Luther</hi> ſpake obſerva<g ref="char:EOLhyphen"/>bly,
+becauſe his own heart, God hath given us, ſaith he, many bleſ<g ref="char:EOLhyphen"/>ſings,
+health, quietneſſe, wife, children, and which is above all, the
+word of his Patience, and yet one fit of the Stone beats out the
+memory of all theſe benefits;<note place="margin">3. 59. 5. 81.</note> 
+               <hi>Vno malo plus movemur quam mille
+bonis,</hi> Though we have had twentie yeers of felicitie, if one day of
+ſorrow come, all the former calmneſſe is forgotten, clouds of in<g ref="char:EOLhyphen"/>dignation
+gather, and breake out into ſtreames of impatience; nay,
+if one tooth doe but ake, that Center or point of paine darkens
+all the Sphere and circumference of Gods mercies; It were eaſie
+to abound in complaining, but farre more comfortable to faſten
+upon a remedy, and that is not farre of; becauſe <hi>the Lord is at
+hand;</hi> and what ſenſe ſoever is put upon the words, they breath
+upon us abundant matter of patience.</p>
+            <p>Firſt, The Lord is ſo nigh, that no ſuffering can befall us with<g ref="char:EOLhyphen"/>out
+his appointment, and if we remember it is his hand, we will
+not utter ſo much as one word of impatience; as <hi>David</hi> profeſſed,
+<hi>He was dumbe and opened not his mouth, becauſe the Lord did it,
+Pſal.</hi> 39. 9.</p>
+            <p>Secondly, The Lords example is neere, ſhould alwayes be at
+hand for our animation and encouragement; <hi>It is enough for the
+diſciple to be as his Maſter, and the ſervant as his Lord, Matth.</hi> 10.
+25. an expreſſion that may make us not onely patient, but joyfull,
+yea triumphant in miſery, Chriſtians to be as their Maſter Chriſt, it
+is enough, and they that conſider it well, need no other conſolation.</p>
+            <p>Thirdly, The Scriptures of Chriſt are <hi>written for our comfort,
+Rom.</hi> 15. 4. and in them the Lord is at hand; <hi>For the word is neere
+thee,</hi> even <hi>in thy mouth, and in thy heart, Rom.</hi> 10. 8. and for this, in
+this, thou mayeſt be patient; <hi>I will reioyce in him</hi> becauſe of his
+<hi>word, in the Lord I will reioyce</hi> becauſe of his word, <hi>Pſal.</hi> 56. 10.</p>
+            <p>Fourthly, Yea the Lord is at hand, to put a period to all our
+<pb n="30" facs="tcp:112593:19"/>
+preſſures; <hi>Looke up, and lift up your heads, for the day of your re<g ref="char:EOLhyphen"/>demption
+draweth nigh,</hi> Luk. 21. 28. ſo Iam. 5. 7, 8. <hi>Be patient
+therefore brethren, unto the coming of the Lord; Behold, the Hus<g ref="char:EOLhyphen"/>bandman
+waiteth for the precious fruit of the earth, and hath long
+patience for it, till he receive the early and latter raine; be ye alſo
+patient, ſtabliſh your hearts, for the coming of the Lord draweth
+nigh;</hi> It is no great matter that the husbandman expects, <hi>fruit
+of the earth, yet he hath great patience;</hi> we have much more in
+hope, heavenly and eternall things: and therefore we ſhould be
+much more in patience, and we may note alſo the reaſon of the
+Text, begins and ends, compaſſeth about this leſſon of patience;
+<hi>initio 7. verſ. &amp; fine</hi> 8. Yea in this, and for this, heare the Iudge
+himſelf, <hi>who is at hand,</hi> Luk. 21. 19. <hi>By your patience poſſeſſe your
+ſoules,</hi> a direction for times like ours, ſuffering times, <hi>ye ſhall be ha<g ref="char:EOLhyphen"/>ted
+of all men for my names ſake,</hi> Verſ. 17. and if they ſay, Maſter,
+in that deplorable condition, where no man will appeare for us,
+what ſhall we do?<note place="margin">Non villas ve<g ref="char:EOLhyphen"/>ſtras, non laudes, non luxurias. Auguſt. <hi>Faith.</hi>
+               </note> his anſwer is, be not ſolicitous for your houſes,
+or lands, or reputation, or body, but for your ſoules; <hi>poſſeſſe them
+by patience.</hi>
+            </p>
+            <p>Sixthly, Faith in the Lord Ieſus Chriſt is alſo commended to us,
+from this Doctrin of the <hi>Lords being at hand,</hi> for when the Apo<g ref="char:EOLhyphen"/>ſtle
+had ſaid, <hi>Heb. 10. 37. Yet a very little while, and he that ſhall
+come, will come, and will not tarry;</hi> every one that heares this, and
+believes it, would preſently make enquiry, Is the Iudge com<g ref="char:EOLhyphen"/>ing,
+ſo certainly, ſo ſpeedily, ſo ſuddenly? and is he indeed <hi>ſo nigh
+at hand?</hi> Alas, what ſhall we then doe, what courſe ſhall we take,
+where, or how ſhall we appeare? The anſwer is ready, moſt ex<g ref="char:EOLhyphen"/>cellent
+and comfortable, in the very next words, <hi>Verſ. 38. Now
+the iuſt ſhall live by faith; Now,</hi> at that very time, in the inſtant of
+Chriſts judging the world, faith ſhall ſupport and uphold all that
+depend upon God: A man indebted, that hath not where with to
+ſatisfie his Creditor, dares not looke him in the face; but if his
+Suretie take out the Bond, all is well, and he is ſafe: We are all
+runne into deep arreares with, and againſt God by our ſinnes, and
+cannot <hi>anſwer him one thing of a thouſand, Iob</hi> 9. 3. not the leaſt
+part of one of many thouſands, what ſhall we then doe? Live by
+faith, and our intereſt in the price of Chriſts blood, pay all the debt
+<pb n="31" facs="tcp:112593:19"/>
+of our ungodlineſſe, that great and ſuperabundant expiation is
+made over to us by holy beleeving; for he was not onely <hi>our Sure<g ref="char:EOLhyphen"/>tie,
+Heb.</hi> 7. 22. but he hath <hi>blotted out the hand-writing that was a<g ref="char:EOLhyphen"/>gainſt
+us, and taken it out of the way,</hi> &amp;c. <hi>Col.</hi> 2. 14. It is written
+of <hi>Pilate,</hi>
+               <note place="margin">M. Weſt. ad A. 38.</note> that being call'd to Rome before the Emperour, to give
+account of ſome Mal-adminiſtration, and miſgovernment, he put
+on the ſeamleſſe Coat of Chriſt, and all the time he ware that gar<g ref="char:EOLhyphen"/>ment,
+<hi>Caeſars</hi> fury was abated, to his own, and others admiration;
+That may be a Fable: but ſure I am, if we have the Robes of
+Chriſts Righteouſneſſe upon us by a lively faith, we ſhall then
+have no cauſe of feare, in that we have not onely <hi>an Advocate
+with the Father, 1 Ioh.</hi> 7. 2. but Chriſt the Iudge, for our defence
+and deliverance; It is a terrible queſtion, that of <hi>Iob,</hi> but very pro<g ref="char:EOLhyphen"/>fitable;
+and oh my ſoule ſleep not this night, nor any other till thou
+haſt put it home to thy ſelfe; <hi>For the Lord is at hand;</hi> the queſtion
+is, <hi>What ſhall I doe, when God riſeth up, and when he viſiteth, what
+ſhall I anſwer him? Iob</hi> 31. 14. To which no other anſwer, no
+better anſwer can be given, then that of Saint <hi>Paul. Rom</hi> 13. 14.
+<hi>Put on the Lord Ieſus Chriſt, and make not proviſion for the fleſh, to
+fulfill the luſts thereof.</hi>
+            </p>
+            <p>Seventhly,<note place="margin">Prayer.</note> The laſt Practicall conſideration held ſorth from this
+Doctrine of the <hi>Lords being nigh at hand,</hi> is ſober watchfulneſſe
+unto prayer, and this is the very Vſe, in termes, Saint <hi>Peter</hi> wils
+us to make thereof, who having ſaid; <hi>The end of all things is at
+hand;</hi> addeth this immediate inference: <hi>Be you therefore ſober,
+and watch unto prayer, 1 Pet.</hi> 4. 7. Yea, our Lord himſelfe, <hi>who is a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+hand,</hi> ſpeaks to each of theſe.</p>
+            <p>
+               <hi>Firſt, Concerning</hi> Sobrietie; Take heed, leſt at any time your
+hearts be overcome with ſurfetting and drunkenneſſe, and that day
+come on you unaw<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>res, <hi>Luk.</hi> 21. 34.</p>
+            <p>Secondly, The Evangeliſts generally, for the ſame reaſon ex<g ref="char:EOLhyphen"/>hort
+to <hi>watching, Matth. 24. 42. Mark.</hi> 13. 33. and they doe not
+meane ſo much abſtinence from ſleep, but from ſinne, and watch<g ref="char:EOLhyphen"/>ing,
+not for worldlineſſe, but for prayer.</p>
+            <p>Thirdly, So, <hi>Luke 21. 36. Watch ye therefore, and pray alwayes:</hi>
+and in the next words, he gives a <hi>Directory of Prayer,</hi> two heads
+of petitions, one, <hi>That ye may be accounted worthy to eſcape all theſe
+<pb n="32" facs="tcp:112593:20"/>
+things that ſhall come to paſſe;</hi> the other, <hi>that ye may ſtand before
+the Sonne of man;</hi> and if you aske when, and how often this muſt
+be remembred, he tels us that alſo; <hi>pray alwayes:</hi> a dutie needfull
+ever, but moſt of all now, in reſpect of our own particulars, and the
+Churches of Ieſus Chriſt.</p>
+            <p>And for our ſelves, let us pray for pardon of ſin, ſtrength againſt
+luſts, ſtanding in judgement; and as the Martyrs in priſon, and at
+the ſtake, ſaid to themſelves, and others; Pray, pray, pray: ſo re<g ref="char:EOLhyphen"/>member
+<hi>the Lord is at hand;</hi> therefore forget not to pray, yea,
+<hi>Watch, and pray,</hi> Matth. 26. 41. <hi>that ye enter not into tentations,</hi> into
+the devouring part thereof,<note place="margin">Ne intremus in ventr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m tentati<g ref="char:EOLhyphen"/>onis, quaſi beſtiae cujuſdam. Theo<g ref="char:EOLhyphen"/>phylact.</note> as the belly of a beaſt: we know not
+what calamitous times may be reſerved for us, but whatſoever
+they are, or may be, we cannot be armed againſt them, but by pray<g ref="char:EOLhyphen"/>er,
+ſo we muſt be prepared, and this we ſee by our Apoſtle, who
+to the Text, <hi>The Lord is at hand,</hi> inſtantly ſubjoynes; <hi>Be carefull
+for nothing, but in every thing by prayer and ſupplication with
+thanks giving, let your requeſt be made known unto God, Phil.</hi> 4. 6.
+Pray for me, ſaith Father <hi>Latimer</hi> to Biſhop <hi>Ridley,</hi> again and a<g ref="char:EOLhyphen"/>gain
+pray for me,<note place="margin">p. 14.</note> for I am ſometimes ſo fearefull, that I could
+creepe into a Mouſehole; (It is his own expreſſion) but God doth
+viſit me again with his conſolation: and then the other anſwers
+him, unleſſe the Lord aſſiſts me with his gracious ayde in the time
+of his ſervice, <hi>I know I ſhall play but the part of a white-liver'd
+Knight;</hi>
+               <note place="margin">p. 15.</note> and yet what Champions, what victorious Champions
+were they both; and that by prayer? For in the ſame little Trea<g ref="char:EOLhyphen"/>tiſe
+of their comfortable conference, during the time of their
+impriſonment, <hi>Ridley</hi> calles on <hi>Latimer,</hi> as upon an <hi>Old beaten
+Souldier for inſtruction,</hi>
+               <note place="margin">p. 16.</note> 
+               <hi>and help to buckle on his harneſſe;</hi> as he
+phraſeth it: and <hi>Latimer</hi> tels him, <hi>you ſhall prevaile more with pray<g ref="char:EOLhyphen"/>ing,
+then ſtudying,</hi>
+               <note place="margin">p. 36.</note> 
+               <hi>though mixture be beſt;</hi> but forget not to pray.
+Let every one for our ſelves remember, <hi>the Lord is at hand;</hi> Be<g ref="char:EOLhyphen"/>ſides,
+the houſes we dwell in are made of clay, and the calamities
+of theſe times are daily battering theſe Tabernacles of duſt, that
+may very ſoone, and ſuddenly fall about our eares; therefore let
+every one of us alwayes <hi>be ſober and watchfull unto prayer,</hi> and
+pray earneſtly to God, that he will give us Repentance from dead
+works, that he will weane us from theſe things below, and teach
+<pb n="33" facs="tcp:112593:20"/>
+us to perſevere in all Divine truth, and make us abound in every
+good word and worke, that he will enable us to be patient in tri<g ref="char:EOLhyphen"/>bulation,
+and fill us with the moſt holy faith in the Lord Ieſus
+Chriſt.</p>
+            <p>And for the Churches of Chriſt,<note place="margin">Jer. 30. 7.</note> remember it is their Day, <hi>the
+very day of Jacobs trouble;</hi> all the Iſrael of our God is in per<g ref="char:EOLhyphen"/>plexitie,
+pray for them all, at home and abroad, pray for the over<g ref="char:EOLhyphen"/>throw
+of Antichriſt, the fall of Babylon; pray for the Peace of
+Hieruſalem, and the wellfare of Sion; yea, pray earneſtly, holily,
+conſtantly,<note place="margin">Gen. 32. 26.</note> and as <hi>Iacob, wraſtle with God, and doe not let him goe,
+till he give you a bleſſing; And you that make mention of the Lord,
+hold not your peace,</hi>
+               <note place="margin">Eſa. 62. 6, 7.</note> 
+               <hi>day nor night, keep not ſilence, and give him no reſt,
+till he eſtabliſh, and till he make Hieruſalem,</hi> the Churches abroad,
+and in theſe Kingdomes, <hi>a praiſe in the earth.</hi> And let us of this
+Nation pray, pray that God would returne the Head to the Body,
+the King to the Parliament; that he will heale our breaches, com<g ref="char:EOLhyphen"/>poſe
+our differences, and haſten the reſtauration of a ſafe and well
+grounded Peace, that yet ſticks in the Birth; pray that he would lift
+up the light of his countenance upon England, Scotland, and Ire<g ref="char:EOLhyphen"/>land.
+<hi>Lord, lift up the light of thy countenance upon them, and they
+ſhall be ſafe;</hi> And let all them that love God, that love their Religi<g ref="char:EOLhyphen"/>on,
+that love their Countrey; that love their Souls, ſay Amen; Yea,
+ſay thou Amen to theſe things; Thou that Art <hi>the Amen,
+the faithfull and true Witneſſe,</hi>
+               <note place="margin">Revel. 3.—14.</note> 
+               <hi>the beginning of
+the Creation of God.</hi> Amen, Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
